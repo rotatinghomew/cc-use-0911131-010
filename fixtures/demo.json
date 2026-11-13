@@ -1,0 +1,66 @@
+{
+  "case_id": "demo-process-20260802",
+  "status": "active",
+  "source_system": "local-synthetic",
+  "event_date": "2026-08-02",
+  "amount": 1266,
+  "count": 484,
+  "total": 1266,
+  "metrics": {
+    "rain": 126.5,
+    "confidence": 0.88,
+    "delay_hours": 1,
+    "coverage": 100
+  },
+  "attributes": {
+    "risk_score": 82,
+    "capacity": 302,
+    "priority": 1,
+    "zone": "mountain",
+    "channel": "four-level"
+  },
+  "tags": [
+    "synthetic",
+    "local",
+    "warning",
+    "warning_threshold_lab"
+  ],
+  "records": [
+    {
+      "id": "station-1",
+      "value": 86
+    },
+    {
+      "id": "station-2",
+      "value": 126
+    },
+    {
+      "id": "station-3",
+      "value": 98
+    }
+  ],
+  "timeline": [
+    {
+      "at": "19:56",
+      "start": 1,
+      "end": 3
+    },
+    {
+      "at": "21:25",
+      "start": 4,
+      "end": 8
+    }
+  ],
+  "links": [
+    {
+      "from": "county",
+      "to": "town",
+      "weight": 3
+    },
+    {
+      "from": "town",
+      "to": "village",
+      "weight": 2
+    }
+  ]
+}

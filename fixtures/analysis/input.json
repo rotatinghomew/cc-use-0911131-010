@@ -1,0 +1,3676 @@
+{
+  "seed": 47,
+  "as_of": "2026-03-03T00:00:00Z",
+  "scores": [
+    {
+      "score_id": "0-a-0",
+      "event_id": "storm0",
+      "zone": "a",
+      "at": "2026-01-01T12:00:00Z",
+      "known_at": "2026-01-01T12:00:00Z",
+      "risk": 0.47,
+      "shift_id": "shift0-a"
+    },
+    {
+      "score_id": "0-a-1",
+      "event_id": "storm0",
+      "zone": "a",
+      "at": "2026-01-01T13:00:00Z",
+      "known_at": "2026-01-01T13:00:00Z",
+      "risk": 0.589,
+      "shift_id": "shift0-a"
+    },
+    {
+      "score_id": "0-a-2",
+      "event_id": "storm0",
+      "zone": "a",
+      "at": "2026-01-01T14:00:00Z",
+      "known_at": "2026-01-01T14:00:00Z",
+      "risk": 0.462,
+      "shift_id": "shift0-a"
+    },
+    {
+      "score_id": "0-a-3",
+      "event_id": "storm0",
+      "zone": "a",
+      "at": "2026-01-01T15:00:00Z",
+      "known_at": "2026-01-01T15:00:00Z",
+      "risk": 0.257,
+      "shift_id": "shift0-a"
+    },
+    {
+      "score_id": "0-a-4",
+      "event_id": "storm0",
+      "zone": "a",
+      "at": "2026-01-01T16:00:00Z",
+      "known_at": "2026-01-01T16:00:00Z",
+      "risk": 0.611,
+      "shift_id": "shift0-a"
+    },
+    {
+      "score_id": "0-a-5",
+      "event_id": "storm0",
+      "zone": "a",
+      "at": "2026-01-01T17:00:00Z",
+      "known_at": "2026-01-01T17:00:00Z",
+      "risk": 0.292,
+      "shift_id": "shift0-a"
+    },
+    {
+      "score_id": "0-a-6",
+      "event_id": "storm0",
+      "zone": "a",
+      "at": "2026-01-01T18:00:00Z",
+      "known_at": "2026-01-01T18:00:00Z",
+      "risk": 0.674,
+      "shift_id": "shift0-a"
+    },
+    {
+      "score_id": "0-a-7",
+      "event_id": "storm0",
+      "zone": "a",
+      "at": "2026-01-01T19:00:00Z",
+      "known_at": "2026-01-01T19:00:00Z",
+      "risk": 0.863,
+      "shift_id": "shift0-a"
+    },
+    {
+      "score_id": "0-a-8",
+      "event_id": "storm0",
+      "zone": "a",
+      "at": "2026-01-01T20:00:00Z",
+      "known_at": "2026-01-01T20:00:00Z",
+      "risk": 0.619,
+      "shift_id": "shift0-a"
+    },
+    {
+      "score_id": "0-a-9",
+      "event_id": "storm0",
+      "zone": "a",
+      "at": "2026-01-01T21:00:00Z",
+      "known_at": "2026-01-01T21:00:00Z",
+      "risk": 0.835,
+      "shift_id": "shift0-a"
+    },
+    {
+      "score_id": "0-a-10",
+      "event_id": "storm0",
+      "zone": "a",
+      "at": "2026-01-01T22:00:00Z",
+      "known_at": "2026-01-01T22:00:00Z",
+      "risk": 0.439,
+      "shift_id": "shift0-a"
+    },
+    {
+      "score_id": "0-a-11",
+      "event_id": "storm0",
+      "zone": "a",
+      "at": "2026-01-01T23:00:00Z",
+      "known_at": "2026-01-01T23:00:00Z",
+      "risk": 0.948,
+      "shift_id": "shift0-a"
+    },
+    {
+      "score_id": "0-b-0",
+      "event_id": "storm0",
+      "zone": "b",
+      "at": "2026-01-01T12:00:00Z",
+      "known_at": "2026-01-01T12:00:00Z",
+      "risk": 0.918,
+      "shift_id": "shift0-b"
+    },
+    {
+      "score_id": "0-b-1",
+      "event_id": "storm0",
+      "zone": "b",
+      "at": "2026-01-01T13:00:00Z",
+      "known_at": "2026-01-01T13:00:00Z",
+      "risk": 0.245,
+      "shift_id": "shift0-b"
+    },
+    {
+      "score_id": "0-b-2",
+      "event_id": "storm0",
+      "zone": "b",
+      "at": "2026-01-01T14:00:00Z",
+      "known_at": "2026-01-01T14:00:00Z",
+      "risk": 0.62,
+      "shift_id": "shift0-b"
+    },
+    {
+      "score_id": "0-b-3",
+      "event_id": "storm0",
+      "zone": "b",
+      "at": "2026-01-01T15:00:00Z",
+      "known_at": "2026-01-01T15:00:00Z",
+      "risk": 0.234,
+      "shift_id": "shift0-b"
+    },
+    {
+      "score_id": "0-b-4",
+      "event_id": "storm0",
+      "zone": "b",
+      "at": "2026-01-01T16:00:00Z",
+      "known_at": "2026-01-01T16:00:00Z",
+      "risk": 0.808,
+      "shift_id": "shift0-b"
+    },
+    {
+      "score_id": "0-b-5",
+      "event_id": "storm0",
+      "zone": "b",
+      "at": "2026-01-01T17:00:00Z",
+      "known_at": "2026-01-01T17:00:00Z",
+      "risk": 0.468,
+      "shift_id": "shift0-b"
+    },
+    {
+      "score_id": "0-b-6",
+      "event_id": "storm0",
+      "zone": "b",
+      "at": "2026-01-01T18:00:00Z",
+      "known_at": "2026-01-01T18:00:00Z",
+      "risk": 0.652,
+      "shift_id": "shift0-b"
+    },
+    {
+      "score_id": "0-b-7",
+      "event_id": "storm0",
+      "zone": "b",
+      "at": "2026-01-01T19:00:00Z",
+      "known_at": "2026-01-01T19:00:00Z",
+      "risk": 0.727,
+      "shift_id": "shift0-b"
+    },
+    {
+      "score_id": "0-b-8",
+      "event_id": "storm0",
+      "zone": "b",
+      "at": "2026-01-01T20:00:00Z",
+      "known_at": "2026-01-01T20:00:00Z",
+      "risk": 0.624,
+      "shift_id": "shift0-b"
+    },
+    {
+      "score_id": "0-b-9",
+      "event_id": "storm0",
+      "zone": "b",
+      "at": "2026-01-01T21:00:00Z",
+      "known_at": "2026-01-01T21:00:00Z",
+      "risk": 0.932,
+      "shift_id": "shift0-b"
+    },
+    {
+      "score_id": "0-b-10",
+      "event_id": "storm0",
+      "zone": "b",
+      "at": "2026-01-01T22:00:00Z",
+      "known_at": "2026-01-01T22:00:00Z",
+      "risk": 0.54,
+      "shift_id": "shift0-b"
+    },
+    {
+      "score_id": "0-b-11",
+      "event_id": "storm0",
+      "zone": "b",
+      "at": "2026-01-01T23:00:00Z",
+      "known_at": "2026-01-01T23:00:00Z",
+      "risk": 0.53,
+      "shift_id": "shift0-b"
+    },
+    {
+      "score_id": "1-a-0",
+      "event_id": "storm1",
+      "zone": "a",
+      "at": "2026-01-05T12:00:00Z",
+      "known_at": "2026-01-05T12:00:00Z",
+      "risk": 0.445,
+      "shift_id": "shift1-a"
+    },
+    {
+      "score_id": "1-a-1",
+      "event_id": "storm1",
+      "zone": "a",
+      "at": "2026-01-05T13:00:00Z",
+      "known_at": "2026-01-05T13:00:00Z",
+      "risk": 0.303,
+      "shift_id": "shift1-a"
+    },
+    {
+      "score_id": "1-a-2",
+      "event_id": "storm1",
+      "zone": "a",
+      "at": "2026-01-05T14:00:00Z",
+      "known_at": "2026-01-05T14:00:00Z",
+      "risk": 0.524,
+      "shift_id": "shift1-a"
+    },
+    {
+      "score_id": "1-a-3",
+      "event_id": "storm1",
+      "zone": "a",
+      "at": "2026-01-05T15:00:00Z",
+      "known_at": "2026-01-05T15:00:00Z",
+      "risk": 0.803,
+      "shift_id": "shift1-a"
+    },
+    {
+      "score_id": "1-a-4",
+      "event_id": "storm1",
+      "zone": "a",
+      "at": "2026-01-05T16:00:00Z",
+      "known_at": "2026-01-05T16:00:00Z",
+      "risk": 0.223,
+      "shift_id": "shift1-a"
+    },
+    {
+      "score_id": "1-a-5",
+      "event_id": "storm1",
+      "zone": "a",
+      "at": "2026-01-05T17:00:00Z",
+      "known_at": "2026-01-05T17:00:00Z",
+      "risk": 0.832,
+      "shift_id": "shift1-a"
+    },
+    {
+      "score_id": "1-a-6",
+      "event_id": "storm1",
+      "zone": "a",
+      "at": "2026-01-05T18:00:00Z",
+      "known_at": "2026-01-05T18:00:00Z",
+      "risk": 0.773,
+      "shift_id": "shift1-a"
+    },
+    {
+      "score_id": "1-a-7",
+      "event_id": "storm1",
+      "zone": "a",
+      "at": "2026-01-05T19:00:00Z",
+      "known_at": "2026-01-05T19:00:00Z",
+      "risk": 0.823,
+      "shift_id": "shift1-a"
+    },
+    {
+      "score_id": "1-a-8",
+      "event_id": "storm1",
+      "zone": "a",
+      "at": "2026-01-05T20:00:00Z",
+      "known_at": "2026-01-05T20:00:00Z",
+      "risk": 0.358,
+      "shift_id": "shift1-a"
+    },
+    {
+      "score_id": "1-a-9",
+      "event_id": "storm1",
+      "zone": "a",
+      "at": "2026-01-05T21:00:00Z",
+      "known_at": "2026-01-05T21:00:00Z",
+      "risk": 0.5,
+      "shift_id": "shift1-a"
+    },
+    {
+      "score_id": "1-a-10",
+      "event_id": "storm1",
+      "zone": "a",
+      "at": "2026-01-05T22:00:00Z",
+      "known_at": "2026-01-05T22:00:00Z",
+      "risk": 0.241,
+      "shift_id": "shift1-a"
+    },
+    {
+      "score_id": "1-a-11",
+      "event_id": "storm1",
+      "zone": "a",
+      "at": "2026-01-05T23:00:00Z",
+      "known_at": "2026-01-05T23:00:00Z",
+      "risk": 0.827,
+      "shift_id": "shift1-a"
+    },
+    {
+      "score_id": "1-b-0",
+      "event_id": "storm1",
+      "zone": "b",
+      "at": "2026-01-05T12:00:00Z",
+      "known_at": "2026-01-05T12:00:00Z",
+      "risk": 0.334,
+      "shift_id": "shift1-b"
+    },
+    {
+      "score_id": "1-b-1",
+      "event_id": "storm1",
+      "zone": "b",
+      "at": "2026-01-05T13:00:00Z",
+      "known_at": "2026-01-05T13:00:00Z",
+      "risk": 0.425,
+      "shift_id": "shift1-b"
+    },
+    {
+      "score_id": "1-b-2",
+      "event_id": "storm1",
+      "zone": "b",
+      "at": "2026-01-05T14:00:00Z",
+      "known_at": "2026-01-05T14:00:00Z",
+      "risk": 0.698,
+      "shift_id": "shift1-b"
+    },
+    {
+      "score_id": "1-b-3",
+      "event_id": "storm1",
+      "zone": "b",
+      "at": "2026-01-05T15:00:00Z",
+      "known_at": "2026-01-05T15:00:00Z",
+      "risk": 0.587,
+      "shift_id": "shift1-b"
+    },
+    {
+      "score_id": "1-b-4",
+      "event_id": "storm1",
+      "zone": "b",
+      "at": "2026-01-05T16:00:00Z",
+      "known_at": "2026-01-05T16:00:00Z",
+      "risk": 0.929,
+      "shift_id": "shift1-b"
+    },
+    {
+      "score_id": "1-b-5",
+      "event_id": "storm1",
+      "zone": "b",
+      "at": "2026-01-05T17:00:00Z",
+      "known_at": "2026-01-05T17:00:00Z",
+      "risk": 0.583,
+      "shift_id": "shift1-b"
+    },
+    {
+      "score_id": "1-b-6",
+      "event_id": "storm1",
+      "zone": "b",
+      "at": "2026-01-05T18:00:00Z",
+      "known_at": "2026-01-05T18:00:00Z",
+      "risk": 0.399,
+      "shift_id": "shift1-b"
+    },
+    {
+      "score_id": "1-b-7",
+      "event_id": "storm1",
+      "zone": "b",
+      "at": "2026-01-05T19:00:00Z",
+      "known_at": "2026-01-05T19:00:00Z",
+      "risk": 0.251,
+      "shift_id": "shift1-b"
+    },
+    {
+      "score_id": "1-b-8",
+      "event_id": "storm1",
+      "zone": "b",
+      "at": "2026-01-05T20:00:00Z",
+      "known_at": "2026-01-05T20:00:00Z",
+      "risk": 0.512,
+      "shift_id": "shift1-b"
+    },
+    {
+      "score_id": "1-b-9",
+      "event_id": "storm1",
+      "zone": "b",
+      "at": "2026-01-05T21:00:00Z",
+      "known_at": "2026-01-05T21:00:00Z",
+      "risk": 0.402,
+      "shift_id": "shift1-b"
+    },
+    {
+      "score_id": "1-b-10",
+      "event_id": "storm1",
+      "zone": "b",
+      "at": "2026-01-05T22:00:00Z",
+      "known_at": "2026-01-05T22:00:00Z",
+      "risk": 0.355,
+      "shift_id": "shift1-b"
+    },
+    {
+      "score_id": "1-b-11",
+      "event_id": "storm1",
+      "zone": "b",
+      "at": "2026-01-05T23:00:00Z",
+      "known_at": "2026-01-05T23:00:00Z",
+      "risk": 0.729,
+      "shift_id": "shift1-b"
+    },
+    {
+      "score_id": "2-a-0",
+      "event_id": "storm2",
+      "zone": "a",
+      "at": "2026-01-09T12:00:00Z",
+      "known_at": "2026-01-09T12:00:00Z",
+      "risk": 0.602,
+      "shift_id": "shift2-a"
+    },
+    {
+      "score_id": "2-a-1",
+      "event_id": "storm2",
+      "zone": "a",
+      "at": "2026-01-09T13:00:00Z",
+      "known_at": "2026-01-09T13:00:00Z",
+      "risk": 0.599,
+      "shift_id": "shift2-a"
+    },
+    {
+      "score_id": "2-a-2",
+      "event_id": "storm2",
+      "zone": "a",
+      "at": "2026-01-09T14:00:00Z",
+      "known_at": "2026-01-09T14:00:00Z",
+      "risk": 0.292,
+      "shift_id": "shift2-a"
+    },
+    {
+      "score_id": "2-a-3",
+      "event_id": "storm2",
+      "zone": "a",
+      "at": "2026-01-09T15:00:00Z",
+      "known_at": "2026-01-09T15:00:00Z",
+      "risk": 0.892,
+      "shift_id": "shift2-a"
+    },
+    {
+      "score_id": "2-a-4",
+      "event_id": "storm2",
+      "zone": "a",
+      "at": "2026-01-09T16:00:00Z",
+      "known_at": "2026-01-09T16:00:00Z",
+      "risk": 0.821,
+      "shift_id": "shift2-a"
+    },
+    {
+      "score_id": "2-a-5",
+      "event_id": "storm2",
+      "zone": "a",
+      "at": "2026-01-09T17:00:00Z",
+      "known_at": "2026-01-09T17:00:00Z",
+      "risk": 0.312,
+      "shift_id": "shift2-a"
+    },
+    {
+      "score_id": "2-a-6",
+      "event_id": "storm2",
+      "zone": "a",
+      "at": "2026-01-09T18:00:00Z",
+      "known_at": "2026-01-09T18:00:00Z",
+      "risk": 0.23,
+      "shift_id": "shift2-a"
+    },
+    {
+      "score_id": "2-a-7",
+      "event_id": "storm2",
+      "zone": "a",
+      "at": "2026-01-09T19:00:00Z",
+      "known_at": "2026-01-09T19:00:00Z",
+      "risk": 0.349,
+      "shift_id": "shift2-a"
+    },
+    {
+      "score_id": "2-a-8",
+      "event_id": "storm2",
+      "zone": "a",
+      "at": "2026-01-09T20:00:00Z",
+      "known_at": "2026-01-09T20:00:00Z",
+      "risk": 0.34,
+      "shift_id": "shift2-a"
+    },
+    {
+      "score_id": "2-a-9",
+      "event_id": "storm2",
+      "zone": "a",
+      "at": "2026-01-09T21:00:00Z",
+      "known_at": "2026-01-09T21:00:00Z",
+      "risk": 0.298,
+      "shift_id": "shift2-a"
+    },
+    {
+      "score_id": "2-a-10",
+      "event_id": "storm2",
+      "zone": "a",
+      "at": "2026-01-09T22:00:00Z",
+      "known_at": "2026-01-09T22:00:00Z",
+      "risk": 0.6,
+      "shift_id": "shift2-a"
+    },
+    {
+      "score_id": "2-a-11",
+      "event_id": "storm2",
+      "zone": "a",
+      "at": "2026-01-09T23:00:00Z",
+      "known_at": "2026-01-09T23:00:00Z",
+      "risk": 0.556,
+      "shift_id": "shift2-a"
+    },
+    {
+      "score_id": "2-b-0",
+      "event_id": "storm2",
+      "zone": "b",
+      "at": "2026-01-09T12:00:00Z",
+      "known_at": "2026-01-09T12:00:00Z",
+      "risk": 0.721,
+      "shift_id": "shift2-b"
+    },
+    {
+      "score_id": "2-b-1",
+      "event_id": "storm2",
+      "zone": "b",
+      "at": "2026-01-09T13:00:00Z",
+      "known_at": "2026-01-09T13:00:00Z",
+      "risk": 0.245,
+      "shift_id": "shift2-b"
+    },
+    {
+      "score_id": "2-b-2",
+      "event_id": "storm2",
+      "zone": "b",
+      "at": "2026-01-09T14:00:00Z",
+      "known_at": "2026-01-09T14:00:00Z",
+      "risk": 0.617,
+      "shift_id": "shift2-b"
+    },
+    {
+      "score_id": "2-b-3",
+      "event_id": "storm2",
+      "zone": "b",
+      "at": "2026-01-09T15:00:00Z",
+      "known_at": "2026-01-09T15:00:00Z",
+      "risk": 0.327,
+      "shift_id": "shift2-b"
+    },
+    {
+      "score_id": "2-b-4",
+      "event_id": "storm2",
+      "zone": "b",
+      "at": "2026-01-09T16:00:00Z",
+      "known_at": "2026-01-09T16:00:00Z",
+      "risk": 0.771,
+      "shift_id": "shift2-b"
+    },
+    {
+      "score_id": "2-b-5",
+      "event_id": "storm2",
+      "zone": "b",
+      "at": "2026-01-09T17:00:00Z",
+      "known_at": "2026-01-09T17:00:00Z",
+      "risk": 0.464,
+      "shift_id": "shift2-b"
+    },
+    {
+      "score_id": "2-b-6",
+      "event_id": "storm2",
+      "zone": "b",
+      "at": "2026-01-09T18:00:00Z",
+      "known_at": "2026-01-09T18:00:00Z",
+      "risk": 0.449,
+      "shift_id": "shift2-b"
+    },
+    {
+      "score_id": "2-b-7",
+      "event_id": "storm2",
+      "zone": "b",
+      "at": "2026-01-09T19:00:00Z",
+      "known_at": "2026-01-09T19:00:00Z",
+      "risk": 0.775,
+      "shift_id": "shift2-b"
+    },
+    {
+      "score_id": "2-b-8",
+      "event_id": "storm2",
+      "zone": "b",
+      "at": "2026-01-09T20:00:00Z",
+      "known_at": "2026-01-09T20:00:00Z",
+      "risk": 0.604,
+      "shift_id": "shift2-b"
+    },
+    {
+      "score_id": "2-b-9",
+      "event_id": "storm2",
+      "zone": "b",
+      "at": "2026-01-09T21:00:00Z",
+      "known_at": "2026-01-09T21:00:00Z",
+      "risk": 0.328,
+      "shift_id": "shift2-b"
+    },
+    {
+      "score_id": "2-b-10",
+      "event_id": "storm2",
+      "zone": "b",
+      "at": "2026-01-09T22:00:00Z",
+      "known_at": "2026-01-09T22:00:00Z",
+      "risk": 0.707,
+      "shift_id": "shift2-b"
+    },
+    {
+      "score_id": "2-b-11",
+      "event_id": "storm2",
+      "zone": "b",
+      "at": "2026-01-09T23:00:00Z",
+      "known_at": "2026-01-09T23:00:00Z",
+      "risk": 0.26,
+      "shift_id": "shift2-b"
+    },
+    {
+      "score_id": "3-a-0",
+      "event_id": "storm3",
+      "zone": "a",
+      "at": "2026-01-13T12:00:00Z",
+      "known_at": "2026-01-13T12:00:00Z",
+      "risk": 0.765,
+      "shift_id": "shift3-a"
+    },
+    {
+      "score_id": "3-a-1",
+      "event_id": "storm3",
+      "zone": "a",
+      "at": "2026-01-13T13:00:00Z",
+      "known_at": "2026-01-13T13:00:00Z",
+      "risk": 0.796,
+      "shift_id": "shift3-a"
+    },
+    {
+      "score_id": "3-a-2",
+      "event_id": "storm3",
+      "zone": "a",
+      "at": "2026-01-13T14:00:00Z",
+      "known_at": "2026-01-13T14:00:00Z",
+      "risk": 0.943,
+      "shift_id": "shift3-a"
+    },
+    {
+      "score_id": "3-a-3",
+      "event_id": "storm3",
+      "zone": "a",
+      "at": "2026-01-13T15:00:00Z",
+      "known_at": "2026-01-13T15:00:00Z",
+      "risk": 0.801,
+      "shift_id": "shift3-a"
+    },
+    {
+      "score_id": "3-a-4",
+      "event_id": "storm3",
+      "zone": "a",
+      "at": "2026-01-13T16:00:00Z",
+      "known_at": "2026-01-13T16:00:00Z",
+      "risk": 0.741,
+      "shift_id": "shift3-a"
+    },
+    {
+      "score_id": "3-a-5",
+      "event_id": "storm3",
+      "zone": "a",
+      "at": "2026-01-13T17:00:00Z",
+      "known_at": "2026-01-13T17:00:00Z",
+      "risk": 0.664,
+      "shift_id": "shift3-a"
+    },
+    {
+      "score_id": "3-a-6",
+      "event_id": "storm3",
+      "zone": "a",
+      "at": "2026-01-13T18:00:00Z",
+      "known_at": "2026-01-13T18:00:00Z",
+      "risk": 0.221,
+      "shift_id": "shift3-a"
+    },
+    {
+      "score_id": "3-a-7",
+      "event_id": "storm3",
+      "zone": "a",
+      "at": "2026-01-13T19:00:00Z",
+      "known_at": "2026-01-13T19:00:00Z",
+      "risk": 0.818,
+      "shift_id": "shift3-a"
+    },
+    {
+      "score_id": "3-a-8",
+      "event_id": "storm3",
+      "zone": "a",
+      "at": "2026-01-13T20:00:00Z",
+      "known_at": "2026-01-13T20:00:00Z",
+      "risk": 0.613,
+      "shift_id": "shift3-a"
+    },
+    {
+      "score_id": "3-a-9",
+      "event_id": "storm3",
+      "zone": "a",
+      "at": "2026-01-13T21:00:00Z",
+      "known_at": "2026-01-13T21:00:00Z",
+      "risk": 0.803,
+      "shift_id": "shift3-a"
+    },
+    {
+      "score_id": "3-a-10",
+      "event_id": "storm3",
+      "zone": "a",
+      "at": "2026-01-13T22:00:00Z",
+      "known_at": "2026-01-13T22:00:00Z",
+      "risk": 0.479,
+      "shift_id": "shift3-a"
+    },
+    {
+      "score_id": "3-a-11",
+      "event_id": "storm3",
+      "zone": "a",
+      "at": "2026-01-13T23:00:00Z",
+      "known_at": "2026-01-13T23:00:00Z",
+      "risk": 0.415,
+      "shift_id": "shift3-a"
+    },
+    {
+      "score_id": "3-b-0",
+      "event_id": "storm3",
+      "zone": "b",
+      "at": "2026-01-13T12:00:00Z",
+      "known_at": "2026-01-13T12:00:00Z",
+      "risk": 0.451,
+      "shift_id": "shift3-b"
+    },
+    {
+      "score_id": "3-b-1",
+      "event_id": "storm3",
+      "zone": "b",
+      "at": "2026-01-13T13:00:00Z",
+      "known_at": "2026-01-13T13:00:00Z",
+      "risk": 0.577,
+      "shift_id": "shift3-b"
+    },
+    {
+      "score_id": "3-b-2",
+      "event_id": "storm3",
+      "zone": "b",
+      "at": "2026-01-13T14:00:00Z",
+      "known_at": "2026-01-13T14:00:00Z",
+      "risk": 0.386,
+      "shift_id": "shift3-b"
+    },
+    {
+      "score_id": "3-b-3",
+      "event_id": "storm3",
+      "zone": "b",
+      "at": "2026-01-13T15:00:00Z",
+      "known_at": "2026-01-13T15:00:00Z",
+      "risk": 0.303,
+      "shift_id": "shift3-b"
+    },
+    {
+      "score_id": "3-b-4",
+      "event_id": "storm3",
+      "zone": "b",
+      "at": "2026-01-13T16:00:00Z",
+      "known_at": "2026-01-13T16:00:00Z",
+      "risk": 0.928,
+      "shift_id": "shift3-b"
+    },
+    {
+      "score_id": "3-b-5",
+      "event_id": "storm3",
+      "zone": "b",
+      "at": "2026-01-13T17:00:00Z",
+      "known_at": "2026-01-13T17:00:00Z",
+      "risk": 0.846,
+      "shift_id": "shift3-b"
+    },
+    {
+      "score_id": "3-b-6",
+      "event_id": "storm3",
+      "zone": "b",
+      "at": "2026-01-13T18:00:00Z",
+      "known_at": "2026-01-13T18:00:00Z",
+      "risk": 0.868,
+      "shift_id": "shift3-b"
+    },
+    {
+      "score_id": "3-b-7",
+      "event_id": "storm3",
+      "zone": "b",
+      "at": "2026-01-13T19:00:00Z",
+      "known_at": "2026-01-13T19:00:00Z",
+      "risk": 0.929,
+      "shift_id": "shift3-b"
+    },
+    {
+      "score_id": "3-b-8",
+      "event_id": "storm3",
+      "zone": "b",
+      "at": "2026-01-13T20:00:00Z",
+      "known_at": "2026-01-13T20:00:00Z",
+      "risk": 0.76,
+      "shift_id": "shift3-b"
+    },
+    {
+      "score_id": "3-b-9",
+      "event_id": "storm3",
+      "zone": "b",
+      "at": "2026-01-13T21:00:00Z",
+      "known_at": "2026-01-13T21:00:00Z",
+      "risk": 0.834,
+      "shift_id": "shift3-b"
+    },
+    {
+      "score_id": "3-b-10",
+      "event_id": "storm3",
+      "zone": "b",
+      "at": "2026-01-13T22:00:00Z",
+      "known_at": "2026-01-13T22:00:00Z",
+      "risk": 0.281,
+      "shift_id": "shift3-b"
+    },
+    {
+      "score_id": "3-b-11",
+      "event_id": "storm3",
+      "zone": "b",
+      "at": "2026-01-13T23:00:00Z",
+      "known_at": "2026-01-13T23:00:00Z",
+      "risk": 0.807,
+      "shift_id": "shift3-b"
+    },
+    {
+      "score_id": "4-a-0",
+      "event_id": "storm4",
+      "zone": "a",
+      "at": "2026-01-17T12:00:00Z",
+      "known_at": "2026-01-17T12:00:00Z",
+      "risk": 0.372,
+      "shift_id": "shift4-a"
+    },
+    {
+      "score_id": "4-a-1",
+      "event_id": "storm4",
+      "zone": "a",
+      "at": "2026-01-17T13:00:00Z",
+      "known_at": "2026-01-17T13:00:00Z",
+      "risk": 0.394,
+      "shift_id": "shift4-a"
+    },
+    {
+      "score_id": "4-a-2",
+      "event_id": "storm4",
+      "zone": "a",
+      "at": "2026-01-17T14:00:00Z",
+      "known_at": "2026-01-17T14:00:00Z",
+      "risk": 0.406,
+      "shift_id": "shift4-a"
+    },
+    {
+      "score_id": "4-a-3",
+      "event_id": "storm4",
+      "zone": "a",
+      "at": "2026-01-17T15:00:00Z",
+      "known_at": "2026-01-17T15:00:00Z",
+      "risk": 0.612,
+      "shift_id": "shift4-a"
+    },
+    {
+      "score_id": "4-a-4",
+      "event_id": "storm4",
+      "zone": "a",
+      "at": "2026-01-17T16:00:00Z",
+      "known_at": "2026-01-17T16:00:00Z",
+      "risk": 0.605,
+      "shift_id": "shift4-a"
+    },
+    {
+      "score_id": "4-a-5",
+      "event_id": "storm4",
+      "zone": "a",
+      "at": "2026-01-17T17:00:00Z",
+      "known_at": "2026-01-17T17:00:00Z",
+      "risk": 0.624,
+      "shift_id": "shift4-a"
+    },
+    {
+      "score_id": "4-a-6",
+      "event_id": "storm4",
+      "zone": "a",
+      "at": "2026-01-17T18:00:00Z",
+      "known_at": "2026-01-17T18:00:00Z",
+      "risk": 0.931,
+      "shift_id": "shift4-a"
+    },
+    {
+      "score_id": "4-a-7",
+      "event_id": "storm4",
+      "zone": "a",
+      "at": "2026-01-17T19:00:00Z",
+      "known_at": "2026-01-17T19:00:00Z",
+      "risk": 0.48,
+      "shift_id": "shift4-a"
+    },
+    {
+      "score_id": "4-a-8",
+      "event_id": "storm4",
+      "zone": "a",
+      "at": "2026-01-17T20:00:00Z",
+      "known_at": "2026-01-17T20:00:00Z",
+      "risk": 0.729,
+      "shift_id": "shift4-a"
+    },
+    {
+      "score_id": "4-a-9",
+      "event_id": "storm4",
+      "zone": "a",
+      "at": "2026-01-17T21:00:00Z",
+      "known_at": "2026-01-17T21:00:00Z",
+      "risk": 0.821,
+      "shift_id": "shift4-a"
+    },
+    {
+      "score_id": "4-a-10",
+      "event_id": "storm4",
+      "zone": "a",
+      "at": "2026-01-17T22:00:00Z",
+      "known_at": "2026-01-17T22:00:00Z",
+      "risk": 0.83,
+      "shift_id": "shift4-a"
+    },
+    {
+      "score_id": "4-a-11",
+      "event_id": "storm4",
+      "zone": "a",
+      "at": "2026-01-17T23:00:00Z",
+      "known_at": "2026-01-17T23:00:00Z",
+      "risk": 0.213,
+      "shift_id": "shift4-a"
+    },
+    {
+      "score_id": "4-b-0",
+      "event_id": "storm4",
+      "zone": "b",
+      "at": "2026-01-17T12:00:00Z",
+      "known_at": "2026-01-17T12:00:00Z",
+      "risk": 0.473,
+      "shift_id": "shift4-b"
+    },
+    {
+      "score_id": "4-b-1",
+      "event_id": "storm4",
+      "zone": "b",
+      "at": "2026-01-17T13:00:00Z",
+      "known_at": "2026-01-17T13:00:00Z",
+      "risk": 0.328,
+      "shift_id": "shift4-b"
+    },
+    {
+      "score_id": "4-b-2",
+      "event_id": "storm4",
+      "zone": "b",
+      "at": "2026-01-17T14:00:00Z",
+      "known_at": "2026-01-17T14:00:00Z",
+      "risk": 0.355,
+      "shift_id": "shift4-b"
+    },
+    {
+      "score_id": "4-b-3",
+      "event_id": "storm4",
+      "zone": "b",
+      "at": "2026-01-17T15:00:00Z",
+      "known_at": "2026-01-17T15:00:00Z",
+      "risk": 0.853,
+      "shift_id": "shift4-b"
+    },
+    {
+      "score_id": "4-b-4",
+      "event_id": "storm4",
+      "zone": "b",
+      "at": "2026-01-17T16:00:00Z",
+      "known_at": "2026-01-17T16:00:00Z",
+      "risk": 0.807,
+      "shift_id": "shift4-b"
+    },
+    {
+      "score_id": "4-b-5",
+      "event_id": "storm4",
+      "zone": "b",
+      "at": "2026-01-17T17:00:00Z",
+      "known_at": "2026-01-17T17:00:00Z",
+      "risk": 0.614,
+      "shift_id": "shift4-b"
+    },
+    {
+      "score_id": "4-b-6",
+      "event_id": "storm4",
+      "zone": "b",
+      "at": "2026-01-17T18:00:00Z",
+      "known_at": "2026-01-17T18:00:00Z",
+      "risk": 0.881,
+      "shift_id": "shift4-b"
+    },
+    {
+      "score_id": "4-b-7",
+      "event_id": "storm4",
+      "zone": "b",
+      "at": "2026-01-17T19:00:00Z",
+      "known_at": "2026-01-17T19:00:00Z",
+      "risk": 0.613,
+      "shift_id": "shift4-b"
+    },
+    {
+      "score_id": "4-b-8",
+      "event_id": "storm4",
+      "zone": "b",
+      "at": "2026-01-17T20:00:00Z",
+      "known_at": "2026-01-17T20:00:00Z",
+      "risk": 0.708,
+      "shift_id": "shift4-b"
+    },
+    {
+      "score_id": "4-b-9",
+      "event_id": "storm4",
+      "zone": "b",
+      "at": "2026-01-17T21:00:00Z",
+      "known_at": "2026-01-17T21:00:00Z",
+      "risk": 0.566,
+      "shift_id": "shift4-b"
+    },
+    {
+      "score_id": "4-b-10",
+      "event_id": "storm4",
+      "zone": "b",
+      "at": "2026-01-17T22:00:00Z",
+      "known_at": "2026-01-17T22:00:00Z",
+      "risk": 0.619,
+      "shift_id": "shift4-b"
+    },
+    {
+      "score_id": "4-b-11",
+      "event_id": "storm4",
+      "zone": "b",
+      "at": "2026-01-17T23:00:00Z",
+      "known_at": "2026-01-17T23:00:00Z",
+      "risk": 0.552,
+      "shift_id": "shift4-b"
+    },
+    {
+      "score_id": "5-a-0",
+      "event_id": "storm5",
+      "zone": "a",
+      "at": "2026-01-21T12:00:00Z",
+      "known_at": "2026-01-21T12:00:00Z",
+      "risk": 0.253,
+      "shift_id": "shift5-a"
+    },
+    {
+      "score_id": "5-a-1",
+      "event_id": "storm5",
+      "zone": "a",
+      "at": "2026-01-21T13:00:00Z",
+      "known_at": "2026-01-21T13:00:00Z",
+      "risk": 0.302,
+      "shift_id": "shift5-a"
+    },
+    {
+      "score_id": "5-a-2",
+      "event_id": "storm5",
+      "zone": "a",
+      "at": "2026-01-21T14:00:00Z",
+      "known_at": "2026-01-21T14:00:00Z",
+      "risk": 0.392,
+      "shift_id": "shift5-a"
+    },
+    {
+      "score_id": "5-a-3",
+      "event_id": "storm5",
+      "zone": "a",
+      "at": "2026-01-21T15:00:00Z",
+      "known_at": "2026-01-21T15:00:00Z",
+      "risk": 0.55,
+      "shift_id": "shift5-a"
+    },
+    {
+      "score_id": "5-a-4",
+      "event_id": "storm5",
+      "zone": "a",
+      "at": "2026-01-21T16:00:00Z",
+      "known_at": "2026-01-21T16:00:00Z",
+      "risk": 0.5,
+      "shift_id": "shift5-a"
+    },
+    {
+      "score_id": "5-a-5",
+      "event_id": "storm5",
+      "zone": "a",
+      "at": "2026-01-21T17:00:00Z",
+      "known_at": "2026-01-21T17:00:00Z",
+      "risk": 0.486,
+      "shift_id": "shift5-a"
+    },
+    {
+      "score_id": "5-a-6",
+      "event_id": "storm5",
+      "zone": "a",
+      "at": "2026-01-21T18:00:00Z",
+      "known_at": "2026-01-21T18:00:00Z",
+      "risk": 0.767,
+      "shift_id": "shift5-a"
+    },
+    {
+      "score_id": "5-a-7",
+      "event_id": "storm5",
+      "zone": "a",
+      "at": "2026-01-21T19:00:00Z",
+      "known_at": "2026-01-21T19:00:00Z",
+      "risk": 0.845,
+      "shift_id": "shift5-a"
+    },
+    {
+      "score_id": "5-a-8",
+      "event_id": "storm5",
+      "zone": "a",
+      "at": "2026-01-21T20:00:00Z",
+      "known_at": "2026-01-21T20:00:00Z",
+      "risk": 0.414,
+      "shift_id": "shift5-a"
+    },
+    {
+      "score_id": "5-a-9",
+      "event_id": "storm5",
+      "zone": "a",
+      "at": "2026-01-21T21:00:00Z",
+      "known_at": "2026-01-21T21:00:00Z",
+      "risk": 0.541,
+      "shift_id": "shift5-a"
+    },
+    {
+      "score_id": "5-a-10",
+      "event_id": "storm5",
+      "zone": "a",
+      "at": "2026-01-21T22:00:00Z",
+      "known_at": "2026-01-21T22:00:00Z",
+      "risk": 0.892,
+      "shift_id": "shift5-a"
+    },
+    {
+      "score_id": "5-a-11",
+      "event_id": "storm5",
+      "zone": "a",
+      "at": "2026-01-21T23:00:00Z",
+      "known_at": "2026-01-21T23:00:00Z",
+      "risk": 0.291,
+      "shift_id": "shift5-a"
+    },
+    {
+      "score_id": "5-b-0",
+      "event_id": "storm5",
+      "zone": "b",
+      "at": "2026-01-21T12:00:00Z",
+      "known_at": "2026-01-21T12:00:00Z",
+      "risk": 0.753,
+      "shift_id": "shift5-b"
+    },
+    {
+      "score_id": "5-b-1",
+      "event_id": "storm5",
+      "zone": "b",
+      "at": "2026-01-21T13:00:00Z",
+      "known_at": "2026-01-21T13:00:00Z",
+      "risk": 0.6,
+      "shift_id": "shift5-b"
+    },
+    {
+      "score_id": "5-b-2",
+      "event_id": "storm5",
+      "zone": "b",
+      "at": "2026-01-21T14:00:00Z",
+      "known_at": "2026-01-21T14:00:00Z",
+      "risk": 0.791,
+      "shift_id": "shift5-b"
+    },
+    {
+      "score_id": "5-b-3",
+      "event_id": "storm5",
+      "zone": "b",
+      "at": "2026-01-21T15:00:00Z",
+      "known_at": "2026-01-21T15:00:00Z",
+      "risk": 0.267,
+      "shift_id": "shift5-b"
+    },
+    {
+      "score_id": "5-b-4",
+      "event_id": "storm5",
+      "zone": "b",
+      "at": "2026-01-21T16:00:00Z",
+      "known_at": "2026-01-21T16:00:00Z",
+      "risk": 0.43,
+      "shift_id": "shift5-b"
+    },
+    {
+      "score_id": "5-b-5",
+      "event_id": "storm5",
+      "zone": "b",
+      "at": "2026-01-21T17:00:00Z",
+      "known_at": "2026-01-21T17:00:00Z",
+      "risk": 0.865,
+      "shift_id": "shift5-b"
+    },
+    {
+      "score_id": "5-b-6",
+      "event_id": "storm5",
+      "zone": "b",
+      "at": "2026-01-21T18:00:00Z",
+      "known_at": "2026-01-21T18:00:00Z",
+      "risk": 0.815,
+      "shift_id": "shift5-b"
+    },
+    {
+      "score_id": "5-b-7",
+      "event_id": "storm5",
+      "zone": "b",
+      "at": "2026-01-21T19:00:00Z",
+      "known_at": "2026-01-21T19:00:00Z",
+      "risk": 0.471,
+      "shift_id": "shift5-b"
+    },
+    {
+      "score_id": "5-b-8",
+      "event_id": "storm5",
+      "zone": "b",
+      "at": "2026-01-21T20:00:00Z",
+      "known_at": "2026-01-21T20:00:00Z",
+      "risk": 0.417,
+      "shift_id": "shift5-b"
+    },
+    {
+      "score_id": "5-b-9",
+      "event_id": "storm5",
+      "zone": "b",
+      "at": "2026-01-21T21:00:00Z",
+      "known_at": "2026-01-21T21:00:00Z",
+      "risk": 0.512,
+      "shift_id": "shift5-b"
+    },
+    {
+      "score_id": "5-b-10",
+      "event_id": "storm5",
+      "zone": "b",
+      "at": "2026-01-21T22:00:00Z",
+      "known_at": "2026-01-21T22:00:00Z",
+      "risk": 0.856,
+      "shift_id": "shift5-b"
+    },
+    {
+      "score_id": "5-b-11",
+      "event_id": "storm5",
+      "zone": "b",
+      "at": "2026-01-21T23:00:00Z",
+      "known_at": "2026-01-21T23:00:00Z",
+      "risk": 0.648,
+      "shift_id": "shift5-b"
+    },
+    {
+      "score_id": "6-a-0",
+      "event_id": "storm6",
+      "zone": "a",
+      "at": "2026-01-25T12:00:00Z",
+      "known_at": "2026-01-25T12:00:00Z",
+      "risk": 0.347,
+      "shift_id": "shift6-a"
+    },
+    {
+      "score_id": "6-a-1",
+      "event_id": "storm6",
+      "zone": "a",
+      "at": "2026-01-25T13:00:00Z",
+      "known_at": "2026-01-25T13:00:00Z",
+      "risk": 0.203,
+      "shift_id": "shift6-a"
+    },
+    {
+      "score_id": "6-a-2",
+      "event_id": "storm6",
+      "zone": "a",
+      "at": "2026-01-25T14:00:00Z",
+      "known_at": "2026-01-25T14:00:00Z",
+      "risk": 0.771,
+      "shift_id": "shift6-a"
+    },
+    {
+      "score_id": "6-a-3",
+      "event_id": "storm6",
+      "zone": "a",
+      "at": "2026-01-25T15:00:00Z",
+      "known_at": "2026-01-25T15:00:00Z",
+      "risk": 0.811,
+      "shift_id": "shift6-a"
+    },
+    {
+      "score_id": "6-a-4",
+      "event_id": "storm6",
+      "zone": "a",
+      "at": "2026-01-25T16:00:00Z",
+      "known_at": "2026-01-25T16:00:00Z",
+      "risk": 0.434,
+      "shift_id": "shift6-a"
+    },
+    {
+      "score_id": "6-a-5",
+      "event_id": "storm6",
+      "zone": "a",
+      "at": "2026-01-25T17:00:00Z",
+      "known_at": "2026-01-25T17:00:00Z",
+      "risk": 0.372,
+      "shift_id": "shift6-a"
+    },
+    {
+      "score_id": "6-a-6",
+      "event_id": "storm6",
+      "zone": "a",
+      "at": "2026-01-25T18:00:00Z",
+      "known_at": "2026-01-25T18:00:00Z",
+      "risk": 0.539,
+      "shift_id": "shift6-a"
+    },
+    {
+      "score_id": "6-a-7",
+      "event_id": "storm6",
+      "zone": "a",
+      "at": "2026-01-25T19:00:00Z",
+      "known_at": "2026-01-25T19:00:00Z",
+      "risk": 0.873,
+      "shift_id": "shift6-a"
+    },
+    {
+      "score_id": "6-a-8",
+      "event_id": "storm6",
+      "zone": "a",
+      "at": "2026-01-25T20:00:00Z",
+      "known_at": "2026-01-25T20:00:00Z",
+      "risk": 0.725,
+      "shift_id": "shift6-a"
+    },
+    {
+      "score_id": "6-a-9",
+      "event_id": "storm6",
+      "zone": "a",
+      "at": "2026-01-25T21:00:00Z",
+      "known_at": "2026-01-25T21:00:00Z",
+      "risk": 0.908,
+      "shift_id": "shift6-a"
+    },
+    {
+      "score_id": "6-a-10",
+      "event_id": "storm6",
+      "zone": "a",
+      "at": "2026-01-25T22:00:00Z",
+      "known_at": "2026-01-25T22:00:00Z",
+      "risk": 0.759,
+      "shift_id": "shift6-a"
+    },
+    {
+      "score_id": "6-a-11",
+      "event_id": "storm6",
+      "zone": "a",
+      "at": "2026-01-25T23:00:00Z",
+      "known_at": "2026-01-25T23:00:00Z",
+      "risk": 0.589,
+      "shift_id": "shift6-a"
+    },
+    {
+      "score_id": "6-b-0",
+      "event_id": "storm6",
+      "zone": "b",
+      "at": "2026-01-25T12:00:00Z",
+      "known_at": "2026-01-25T12:00:00Z",
+      "risk": 0.619,
+      "shift_id": "shift6-b"
+    },
+    {
+      "score_id": "6-b-1",
+      "event_id": "storm6",
+      "zone": "b",
+      "at": "2026-01-25T13:00:00Z",
+      "known_at": "2026-01-25T13:00:00Z",
+      "risk": 0.886,
+      "shift_id": "shift6-b"
+    },
+    {
+      "score_id": "6-b-2",
+      "event_id": "storm6",
+      "zone": "b",
+      "at": "2026-01-25T14:00:00Z",
+      "known_at": "2026-01-25T14:00:00Z",
+      "risk": 0.685,
+      "shift_id": "shift6-b"
+    },
+    {
+      "score_id": "6-b-3",
+      "event_id": "storm6",
+      "zone": "b",
+      "at": "2026-01-25T15:00:00Z",
+      "known_at": "2026-01-25T15:00:00Z",
+      "risk": 0.538,
+      "shift_id": "shift6-b"
+    },
+    {
+      "score_id": "6-b-4",
+      "event_id": "storm6",
+      "zone": "b",
+      "at": "2026-01-25T16:00:00Z",
+      "known_at": "2026-01-25T16:00:00Z",
+      "risk": 0.591,
+      "shift_id": "shift6-b"
+    },
+    {
+      "score_id": "6-b-5",
+      "event_id": "storm6",
+      "zone": "b",
+      "at": "2026-01-25T17:00:00Z",
+      "known_at": "2026-01-25T17:00:00Z",
+      "risk": 0.929,
+      "shift_id": "shift6-b"
+    },
+    {
+      "score_id": "6-b-6",
+      "event_id": "storm6",
+      "zone": "b",
+      "at": "2026-01-25T18:00:00Z",
+      "known_at": "2026-01-25T18:00:00Z",
+      "risk": 0.624,
+      "shift_id": "shift6-b"
+    },
+    {
+      "score_id": "6-b-7",
+      "event_id": "storm6",
+      "zone": "b",
+      "at": "2026-01-25T19:00:00Z",
+      "known_at": "2026-01-25T19:00:00Z",
+      "risk": 0.752,
+      "shift_id": "shift6-b"
+    },
+    {
+      "score_id": "6-b-8",
+      "event_id": "storm6",
+      "zone": "b",
+      "at": "2026-01-25T20:00:00Z",
+      "known_at": "2026-01-25T20:00:00Z",
+      "risk": 0.3,
+      "shift_id": "shift6-b"
+    },
+    {
+      "score_id": "6-b-9",
+      "event_id": "storm6",
+      "zone": "b",
+      "at": "2026-01-25T21:00:00Z",
+      "known_at": "2026-01-25T21:00:00Z",
+      "risk": 0.363,
+      "shift_id": "shift6-b"
+    },
+    {
+      "score_id": "6-b-10",
+      "event_id": "storm6",
+      "zone": "b",
+      "at": "2026-01-25T22:00:00Z",
+      "known_at": "2026-01-25T22:00:00Z",
+      "risk": 0.66,
+      "shift_id": "shift6-b"
+    },
+    {
+      "score_id": "6-b-11",
+      "event_id": "storm6",
+      "zone": "b",
+      "at": "2026-01-25T23:00:00Z",
+      "known_at": "2026-01-25T23:00:00Z",
+      "risk": 0.422,
+      "shift_id": "shift6-b"
+    },
+    {
+      "score_id": "7-a-0",
+      "event_id": "storm7",
+      "zone": "a",
+      "at": "2026-01-29T12:00:00Z",
+      "known_at": "2026-01-29T12:00:00Z",
+      "risk": 0.202,
+      "shift_id": "shift7-a"
+    },
+    {
+      "score_id": "7-a-1",
+      "event_id": "storm7",
+      "zone": "a",
+      "at": "2026-01-29T13:00:00Z",
+      "known_at": "2026-01-29T13:00:00Z",
+      "risk": 0.484,
+      "shift_id": "shift7-a"
+    },
+    {
+      "score_id": "7-a-2",
+      "event_id": "storm7",
+      "zone": "a",
+      "at": "2026-01-29T14:00:00Z",
+      "known_at": "2026-01-29T14:00:00Z",
+      "risk": 0.318,
+      "shift_id": "shift7-a"
+    },
+    {
+      "score_id": "7-a-3",
+      "event_id": "storm7",
+      "zone": "a",
+      "at": "2026-01-29T15:00:00Z",
+      "known_at": "2026-01-29T15:00:00Z",
+      "risk": 0.65,
+      "shift_id": "shift7-a"
+    },
+    {
+      "score_id": "7-a-4",
+      "event_id": "storm7",
+      "zone": "a",
+      "at": "2026-01-29T16:00:00Z",
+      "known_at": "2026-01-29T16:00:00Z",
+      "risk": 0.861,
+      "shift_id": "shift7-a"
+    },
+    {
+      "score_id": "7-a-5",
+      "event_id": "storm7",
+      "zone": "a",
+      "at": "2026-01-29T17:00:00Z",
+      "known_at": "2026-01-29T17:00:00Z",
+      "risk": 0.55,
+      "shift_id": "shift7-a"
+    },
+    {
+      "score_id": "7-a-6",
+      "event_id": "storm7",
+      "zone": "a",
+      "at": "2026-01-29T18:00:00Z",
+      "known_at": "2026-01-29T18:00:00Z",
+      "risk": 0.926,
+      "shift_id": "shift7-a"
+    },
+    {
+      "score_id": "7-a-7",
+      "event_id": "storm7",
+      "zone": "a",
+      "at": "2026-01-29T19:00:00Z",
+      "known_at": "2026-01-29T19:00:00Z",
+      "risk": 0.326,
+      "shift_id": "shift7-a"
+    },
+    {
+      "score_id": "7-a-8",
+      "event_id": "storm7",
+      "zone": "a",
+      "at": "2026-01-29T20:00:00Z",
+      "known_at": "2026-01-29T20:00:00Z",
+      "risk": 0.336,
+      "shift_id": "shift7-a"
+    },
+    {
+      "score_id": "7-a-9",
+      "event_id": "storm7",
+      "zone": "a",
+      "at": "2026-01-29T21:00:00Z",
+      "known_at": "2026-01-29T21:00:00Z",
+      "risk": 0.298,
+      "shift_id": "shift7-a"
+    },
+    {
+      "score_id": "7-a-10",
+      "event_id": "storm7",
+      "zone": "a",
+      "at": "2026-01-29T22:00:00Z",
+      "known_at": "2026-01-29T22:00:00Z",
+      "risk": 0.864,
+      "shift_id": "shift7-a"
+    },
+    {
+      "score_id": "7-a-11",
+      "event_id": "storm7",
+      "zone": "a",
+      "at": "2026-01-29T23:00:00Z",
+      "known_at": "2026-01-29T23:00:00Z",
+      "risk": 0.897,
+      "shift_id": "shift7-a"
+    },
+    {
+      "score_id": "7-b-0",
+      "event_id": "storm7",
+      "zone": "b",
+      "at": "2026-01-29T12:00:00Z",
+      "known_at": "2026-01-29T12:00:00Z",
+      "risk": 0.612,
+      "shift_id": "shift7-b"
+    },
+    {
+      "score_id": "7-b-1",
+      "event_id": "storm7",
+      "zone": "b",
+      "at": "2026-01-29T13:00:00Z",
+      "known_at": "2026-01-29T13:00:00Z",
+      "risk": 0.691,
+      "shift_id": "shift7-b"
+    },
+    {
+      "score_id": "7-b-2",
+      "event_id": "storm7",
+      "zone": "b",
+      "at": "2026-01-29T14:00:00Z",
+      "known_at": "2026-01-29T14:00:00Z",
+      "risk": 0.236,
+      "shift_id": "shift7-b"
+    },
+    {
+      "score_id": "7-b-3",
+      "event_id": "storm7",
+      "zone": "b",
+      "at": "2026-01-29T15:00:00Z",
+      "known_at": "2026-01-29T15:00:00Z",
+      "risk": 0.478,
+      "shift_id": "shift7-b"
+    },
+    {
+      "score_id": "7-b-4",
+      "event_id": "storm7",
+      "zone": "b",
+      "at": "2026-01-29T16:00:00Z",
+      "known_at": "2026-01-29T16:00:00Z",
+      "risk": 0.385,
+      "shift_id": "shift7-b"
+    },
+    {
+      "score_id": "7-b-5",
+      "event_id": "storm7",
+      "zone": "b",
+      "at": "2026-01-29T17:00:00Z",
+      "known_at": "2026-01-29T17:00:00Z",
+      "risk": 0.273,
+      "shift_id": "shift7-b"
+    },
+    {
+      "score_id": "7-b-6",
+      "event_id": "storm7",
+      "zone": "b",
+      "at": "2026-01-29T18:00:00Z",
+      "known_at": "2026-01-29T18:00:00Z",
+      "risk": 0.919,
+      "shift_id": "shift7-b"
+    },
+    {
+      "score_id": "7-b-7",
+      "event_id": "storm7",
+      "zone": "b",
+      "at": "2026-01-29T19:00:00Z",
+      "known_at": "2026-01-29T19:00:00Z",
+      "risk": 0.398,
+      "shift_id": "shift7-b"
+    },
+    {
+      "score_id": "7-b-8",
+      "event_id": "storm7",
+      "zone": "b",
+      "at": "2026-01-29T20:00:00Z",
+      "known_at": "2026-01-29T20:00:00Z",
+      "risk": 0.45,
+      "shift_id": "shift7-b"
+    },
+    {
+      "score_id": "7-b-9",
+      "event_id": "storm7",
+      "zone": "b",
+      "at": "2026-01-29T21:00:00Z",
+      "known_at": "2026-01-29T21:00:00Z",
+      "risk": 0.847,
+      "shift_id": "shift7-b"
+    },
+    {
+      "score_id": "7-b-10",
+      "event_id": "storm7",
+      "zone": "b",
+      "at": "2026-01-29T22:00:00Z",
+      "known_at": "2026-01-29T22:00:00Z",
+      "risk": 0.452,
+      "shift_id": "shift7-b"
+    },
+    {
+      "score_id": "7-b-11",
+      "event_id": "storm7",
+      "zone": "b",
+      "at": "2026-01-29T23:00:00Z",
+      "known_at": "2026-01-29T23:00:00Z",
+      "risk": 0.821,
+      "shift_id": "shift7-b"
+    },
+    {
+      "score_id": "8-a-0",
+      "event_id": "storm8",
+      "zone": "a",
+      "at": "2026-02-02T12:00:00Z",
+      "known_at": "2026-02-02T12:00:00Z",
+      "risk": 0.639,
+      "shift_id": "shift8-a"
+    },
+    {
+      "score_id": "8-a-1",
+      "event_id": "storm8",
+      "zone": "a",
+      "at": "2026-02-02T13:00:00Z",
+      "known_at": "2026-02-02T13:00:00Z",
+      "risk": 0.228,
+      "shift_id": "shift8-a"
+    },
+    {
+      "score_id": "8-a-2",
+      "event_id": "storm8",
+      "zone": "a",
+      "at": "2026-02-02T14:00:00Z",
+      "known_at": "2026-02-02T14:00:00Z",
+      "risk": 0.633,
+      "shift_id": "shift8-a"
+    },
+    {
+      "score_id": "8-a-3",
+      "event_id": "storm8",
+      "zone": "a",
+      "at": "2026-02-02T15:00:00Z",
+      "known_at": "2026-02-02T15:00:00Z",
+      "risk": 0.54,
+      "shift_id": "shift8-a"
+    },
+    {
+      "score_id": "8-a-4",
+      "event_id": "storm8",
+      "zone": "a",
+      "at": "2026-02-02T16:00:00Z",
+      "known_at": "2026-02-02T16:00:00Z",
+      "risk": 0.94,
+      "shift_id": "shift8-a"
+    },
+    {
+      "score_id": "8-a-5",
+      "event_id": "storm8",
+      "zone": "a",
+      "at": "2026-02-02T17:00:00Z",
+      "known_at": "2026-02-02T17:00:00Z",
+      "risk": 0.636,
+      "shift_id": "shift8-a"
+    },
+    {
+      "score_id": "8-a-6",
+      "event_id": "storm8",
+      "zone": "a",
+      "at": "2026-02-02T18:00:00Z",
+      "known_at": "2026-02-02T18:00:00Z",
+      "risk": 0.305,
+      "shift_id": "shift8-a"
+    },
+    {
+      "score_id": "8-a-7",
+      "event_id": "storm8",
+      "zone": "a",
+      "at": "2026-02-02T19:00:00Z",
+      "known_at": "2026-02-02T19:00:00Z",
+      "risk": 0.71,
+      "shift_id": "shift8-a"
+    },
+    {
+      "score_id": "8-a-8",
+      "event_id": "storm8",
+      "zone": "a",
+      "at": "2026-02-02T20:00:00Z",
+      "known_at": "2026-02-02T20:00:00Z",
+      "risk": 0.2,
+      "shift_id": "shift8-a"
+    },
+    {
+      "score_id": "8-a-9",
+      "event_id": "storm8",
+      "zone": "a",
+      "at": "2026-02-02T21:00:00Z",
+      "known_at": "2026-02-02T21:00:00Z",
+      "risk": 0.298,
+      "shift_id": "shift8-a"
+    },
+    {
+      "score_id": "8-a-10",
+      "event_id": "storm8",
+      "zone": "a",
+      "at": "2026-02-02T22:00:00Z",
+      "known_at": "2026-02-02T22:00:00Z",
+      "risk": 0.71,
+      "shift_id": "shift8-a"
+    },
+    {
+      "score_id": "8-a-11",
+      "event_id": "storm8",
+      "zone": "a",
+      "at": "2026-02-02T23:00:00Z",
+      "known_at": "2026-02-02T23:00:00Z",
+      "risk": 0.9,
+      "shift_id": "shift8-a"
+    },
+    {
+      "score_id": "8-b-0",
+      "event_id": "storm8",
+      "zone": "b",
+      "at": "2026-02-02T12:00:00Z",
+      "known_at": "2026-02-02T12:00:00Z",
+      "risk": 0.851,
+      "shift_id": "shift8-b"
+    },
+    {
+      "score_id": "8-b-1",
+      "event_id": "storm8",
+      "zone": "b",
+      "at": "2026-02-02T13:00:00Z",
+      "known_at": "2026-02-02T13:00:00Z",
+      "risk": 0.835,
+      "shift_id": "shift8-b"
+    },
+    {
+      "score_id": "8-b-2",
+      "event_id": "storm8",
+      "zone": "b",
+      "at": "2026-02-02T14:00:00Z",
+      "known_at": "2026-02-02T14:00:00Z",
+      "risk": 0.677,
+      "shift_id": "shift8-b"
+    },
+    {
+      "score_id": "8-b-3",
+      "event_id": "storm8",
+      "zone": "b",
+      "at": "2026-02-02T15:00:00Z",
+      "known_at": "2026-02-02T15:00:00Z",
+      "risk": 0.682,
+      "shift_id": "shift8-b"
+    },
+    {
+      "score_id": "8-b-4",
+      "event_id": "storm8",
+      "zone": "b",
+      "at": "2026-02-02T16:00:00Z",
+      "known_at": "2026-02-02T16:00:00Z",
+      "risk": 0.536,
+      "shift_id": "shift8-b"
+    },
+    {
+      "score_id": "8-b-5",
+      "event_id": "storm8",
+      "zone": "b",
+      "at": "2026-02-02T17:00:00Z",
+      "known_at": "2026-02-02T17:00:00Z",
+      "risk": 0.691,
+      "shift_id": "shift8-b"
+    },
+    {
+      "score_id": "8-b-6",
+      "event_id": "storm8",
+      "zone": "b",
+      "at": "2026-02-02T18:00:00Z",
+      "known_at": "2026-02-02T18:00:00Z",
+      "risk": 0.605,
+      "shift_id": "shift8-b"
+    },
+    {
+      "score_id": "8-b-7",
+      "event_id": "storm8",
+      "zone": "b",
+      "at": "2026-02-02T19:00:00Z",
+      "known_at": "2026-02-02T19:00:00Z",
+      "risk": 0.812,
+      "shift_id": "shift8-b"
+    },
+    {
+      "score_id": "8-b-8",
+      "event_id": "storm8",
+      "zone": "b",
+      "at": "2026-02-02T20:00:00Z",
+      "known_at": "2026-02-02T20:00:00Z",
+      "risk": 0.722,
+      "shift_id": "shift8-b"
+    },
+    {
+      "score_id": "8-b-9",
+      "event_id": "storm8",
+      "zone": "b",
+      "at": "2026-02-02T21:00:00Z",
+      "known_at": "2026-02-02T21:00:00Z",
+      "risk": 0.848,
+      "shift_id": "shift8-b"
+    },
+    {
+      "score_id": "8-b-10",
+      "event_id": "storm8",
+      "zone": "b",
+      "at": "2026-02-02T22:00:00Z",
+      "known_at": "2026-02-02T22:00:00Z",
+      "risk": 0.405,
+      "shift_id": "shift8-b"
+    },
+    {
+      "score_id": "8-b-11",
+      "event_id": "storm8",
+      "zone": "b",
+      "at": "2026-02-02T23:00:00Z",
+      "known_at": "2026-02-02T23:00:00Z",
+      "risk": 0.559,
+      "shift_id": "shift8-b"
+    },
+    {
+      "score_id": "9-a-0",
+      "event_id": "storm9",
+      "zone": "a",
+      "at": "2026-02-06T12:00:00Z",
+      "known_at": "2026-02-06T12:00:00Z",
+      "risk": 0.451,
+      "shift_id": "shift9-a"
+    },
+    {
+      "score_id": "9-a-1",
+      "event_id": "storm9",
+      "zone": "a",
+      "at": "2026-02-06T13:00:00Z",
+      "known_at": "2026-02-06T13:00:00Z",
+      "risk": 0.86,
+      "shift_id": "shift9-a"
+    },
+    {
+      "score_id": "9-a-2",
+      "event_id": "storm9",
+      "zone": "a",
+      "at": "2026-02-06T14:00:00Z",
+      "known_at": "2026-02-06T14:00:00Z",
+      "risk": 0.739,
+      "shift_id": "shift9-a"
+    },
+    {
+      "score_id": "9-a-3",
+      "event_id": "storm9",
+      "zone": "a",
+      "at": "2026-02-06T15:00:00Z",
+      "known_at": "2026-02-06T15:00:00Z",
+      "risk": 0.815,
+      "shift_id": "shift9-a"
+    },
+    {
+      "score_id": "9-a-4",
+      "event_id": "storm9",
+      "zone": "a",
+      "at": "2026-02-06T16:00:00Z",
+      "known_at": "2026-02-06T16:00:00Z",
+      "risk": 0.591,
+      "shift_id": "shift9-a"
+    },
+    {
+      "score_id": "9-a-5",
+      "event_id": "storm9",
+      "zone": "a",
+      "at": "2026-02-06T17:00:00Z",
+      "known_at": "2026-02-06T17:00:00Z",
+      "risk": 0.547,
+      "shift_id": "shift9-a"
+    },
+    {
+      "score_id": "9-a-6",
+      "event_id": "storm9",
+      "zone": "a",
+      "at": "2026-02-06T18:00:00Z",
+      "known_at": "2026-02-06T18:00:00Z",
+      "risk": 0.625,
+      "shift_id": "shift9-a"
+    },
+    {
+      "score_id": "9-a-7",
+      "event_id": "storm9",
+      "zone": "a",
+      "at": "2026-02-06T19:00:00Z",
+      "known_at": "2026-02-06T19:00:00Z",
+      "risk": 0.302,
+      "shift_id": "shift9-a"
+    },
+    {
+      "score_id": "9-a-8",
+      "event_id": "storm9",
+      "zone": "a",
+      "at": "2026-02-06T20:00:00Z",
+      "known_at": "2026-02-06T20:00:00Z",
+      "risk": 0.934,
+      "shift_id": "shift9-a"
+    },
+    {
+      "score_id": "9-a-9",
+      "event_id": "storm9",
+      "zone": "a",
+      "at": "2026-02-06T21:00:00Z",
+      "known_at": "2026-02-06T21:00:00Z",
+      "risk": 0.403,
+      "shift_id": "shift9-a"
+    },
+    {
+      "score_id": "9-a-10",
+      "event_id": "storm9",
+      "zone": "a",
+      "at": "2026-02-06T22:00:00Z",
+      "known_at": "2026-02-06T22:00:00Z",
+      "risk": 0.651,
+      "shift_id": "shift9-a"
+    },
+    {
+      "score_id": "9-a-11",
+      "event_id": "storm9",
+      "zone": "a",
+      "at": "2026-02-06T23:00:00Z",
+      "known_at": "2026-02-06T23:00:00Z",
+      "risk": 0.421,
+      "shift_id": "shift9-a"
+    },
+    {
+      "score_id": "9-b-0",
+      "event_id": "storm9",
+      "zone": "b",
+      "at": "2026-02-06T12:00:00Z",
+      "known_at": "2026-02-06T12:00:00Z",
+      "risk": 0.693,
+      "shift_id": "shift9-b"
+    },
+    {
+      "score_id": "9-b-1",
+      "event_id": "storm9",
+      "zone": "b",
+      "at": "2026-02-06T13:00:00Z",
+      "known_at": "2026-02-06T13:00:00Z",
+      "risk": 0.705,
+      "shift_id": "shift9-b"
+    },
+    {
+      "score_id": "9-b-2",
+      "event_id": "storm9",
+      "zone": "b",
+      "at": "2026-02-06T14:00:00Z",
+      "known_at": "2026-02-06T14:00:00Z",
+      "risk": 0.294,
+      "shift_id": "shift9-b"
+    },
+    {
+      "score_id": "9-b-3",
+      "event_id": "storm9",
+      "zone": "b",
+      "at": "2026-02-06T15:00:00Z",
+      "known_at": "2026-02-06T15:00:00Z",
+      "risk": 0.592,
+      "shift_id": "shift9-b"
+    },
+    {
+      "score_id": "9-b-4",
+      "event_id": "storm9",
+      "zone": "b",
+      "at": "2026-02-06T16:00:00Z",
+      "known_at": "2026-02-06T16:00:00Z",
+      "risk": 0.704,
+      "shift_id": "shift9-b"
+    },
+    {
+      "score_id": "9-b-5",
+      "event_id": "storm9",
+      "zone": "b",
+      "at": "2026-02-06T17:00:00Z",
+      "known_at": "2026-02-06T17:00:00Z",
+      "risk": 0.351,
+      "shift_id": "shift9-b"
+    },
+    {
+      "score_id": "9-b-6",
+      "event_id": "storm9",
+      "zone": "b",
+      "at": "2026-02-06T18:00:00Z",
+      "known_at": "2026-02-06T18:00:00Z",
+      "risk": 0.215,
+      "shift_id": "shift9-b"
+    },
+    {
+      "score_id": "9-b-7",
+      "event_id": "storm9",
+      "zone": "b",
+      "at": "2026-02-06T19:00:00Z",
+      "known_at": "2026-02-06T19:00:00Z",
+      "risk": 0.747,
+      "shift_id": "shift9-b"
+    },
+    {
+      "score_id": "9-b-8",
+      "event_id": "storm9",
+      "zone": "b",
+      "at": "2026-02-06T20:00:00Z",
+      "known_at": "2026-02-06T20:00:00Z",
+      "risk": 0.805,
+      "shift_id": "shift9-b"
+    },
+    {
+      "score_id": "9-b-9",
+      "event_id": "storm9",
+      "zone": "b",
+      "at": "2026-02-06T21:00:00Z",
+      "known_at": "2026-02-06T21:00:00Z",
+      "risk": 0.949,
+      "shift_id": "shift9-b"
+    },
+    {
+      "score_id": "9-b-10",
+      "event_id": "storm9",
+      "zone": "b",
+      "at": "2026-02-06T22:00:00Z",
+      "known_at": "2026-02-06T22:00:00Z",
+      "risk": 0.499,
+      "shift_id": "shift9-b"
+    },
+    {
+      "score_id": "9-b-11",
+      "event_id": "storm9",
+      "zone": "b",
+      "at": "2026-02-06T23:00:00Z",
+      "known_at": "2026-02-06T23:00:00Z",
+      "risk": 0.413,
+      "shift_id": "shift9-b"
+    },
+    {
+      "score_id": "10-a-0",
+      "event_id": "storm10",
+      "zone": "a",
+      "at": "2026-02-10T12:00:00Z",
+      "known_at": "2026-02-10T12:00:00Z",
+      "risk": 0.297,
+      "shift_id": "shift10-a"
+    },
+    {
+      "score_id": "10-a-1",
+      "event_id": "storm10",
+      "zone": "a",
+      "at": "2026-02-10T13:00:00Z",
+      "known_at": "2026-02-10T13:00:00Z",
+      "risk": 0.385,
+      "shift_id": "shift10-a"
+    },
+    {
+      "score_id": "10-a-2",
+      "event_id": "storm10",
+      "zone": "a",
+      "at": "2026-02-10T14:00:00Z",
+      "known_at": "2026-02-10T14:00:00Z",
+      "risk": 0.479,
+      "shift_id": "shift10-a"
+    },
+    {
+      "score_id": "10-a-3",
+      "event_id": "storm10",
+      "zone": "a",
+      "at": "2026-02-10T15:00:00Z",
+      "known_at": "2026-02-10T15:00:00Z",
+      "risk": 0.877,
+      "shift_id": "shift10-a"
+    },
+    {
+      "score_id": "10-a-4",
+      "event_id": "storm10",
+      "zone": "a",
+      "at": "2026-02-10T16:00:00Z",
+      "known_at": "2026-02-10T16:00:00Z",
+      "risk": 0.373,
+      "shift_id": "shift10-a"
+    },
+    {
+      "score_id": "10-a-5",
+      "event_id": "storm10",
+      "zone": "a",
+      "at": "2026-02-10T17:00:00Z",
+      "known_at": "2026-02-10T17:00:00Z",
+      "risk": 0.238,
+      "shift_id": "shift10-a"
+    },
+    {
+      "score_id": "10-a-6",
+      "event_id": "storm10",
+      "zone": "a",
+      "at": "2026-02-10T18:00:00Z",
+      "known_at": "2026-02-10T18:00:00Z",
+      "risk": 0.828,
+      "shift_id": "shift10-a"
+    },
+    {
+      "score_id": "10-a-7",
+      "event_id": "storm10",
+      "zone": "a",
+      "at": "2026-02-10T19:00:00Z",
+      "known_at": "2026-02-10T19:00:00Z",
+      "risk": 0.798,
+      "shift_id": "shift10-a"
+    },
+    {
+      "score_id": "10-a-8",
+      "event_id": "storm10",
+      "zone": "a",
+      "at": "2026-02-10T20:00:00Z",
+      "known_at": "2026-02-10T20:00:00Z",
+      "risk": 0.356,
+      "shift_id": "shift10-a"
+    },
+    {
+      "score_id": "10-a-9",
+      "event_id": "storm10",
+      "zone": "a",
+      "at": "2026-02-10T21:00:00Z",
+      "known_at": "2026-02-10T21:00:00Z",
+      "risk": 0.649,
+      "shift_id": "shift10-a"
+    },
+    {
+      "score_id": "10-a-10",
+      "event_id": "storm10",
+      "zone": "a",
+      "at": "2026-02-10T22:00:00Z",
+      "known_at": "2026-02-10T22:00:00Z",
+      "risk": 0.914,
+      "shift_id": "shift10-a"
+    },
+    {
+      "score_id": "10-a-11",
+      "event_id": "storm10",
+      "zone": "a",
+      "at": "2026-02-10T23:00:00Z",
+      "known_at": "2026-02-10T23:00:00Z",
+      "risk": 0.674,
+      "shift_id": "shift10-a"
+    },
+    {
+      "score_id": "10-b-0",
+      "event_id": "storm10",
+      "zone": "b",
+      "at": "2026-02-10T12:00:00Z",
+      "known_at": "2026-02-10T12:00:00Z",
+      "risk": 0.934,
+      "shift_id": "shift10-b"
+    },
+    {
+      "score_id": "10-b-1",
+      "event_id": "storm10",
+      "zone": "b",
+      "at": "2026-02-10T13:00:00Z",
+      "known_at": "2026-02-10T13:00:00Z",
+      "risk": 0.423,
+      "shift_id": "shift10-b"
+    },
+    {
+      "score_id": "10-b-2",
+      "event_id": "storm10",
+      "zone": "b",
+      "at": "2026-02-10T14:00:00Z",
+      "known_at": "2026-02-10T14:00:00Z",
+      "risk": 0.429,
+      "shift_id": "shift10-b"
+    },
+    {
+      "score_id": "10-b-3",
+      "event_id": "storm10",
+      "zone": "b",
+      "at": "2026-02-10T15:00:00Z",
+      "known_at": "2026-02-10T15:00:00Z",
+      "risk": 0.913,
+      "shift_id": "shift10-b"
+    },
+    {
+      "score_id": "10-b-4",
+      "event_id": "storm10",
+      "zone": "b",
+      "at": "2026-02-10T16:00:00Z",
+      "known_at": "2026-02-10T16:00:00Z",
+      "risk": 0.917,
+      "shift_id": "shift10-b"
+    },
+    {
+      "score_id": "10-b-5",
+      "event_id": "storm10",
+      "zone": "b",
+      "at": "2026-02-10T17:00:00Z",
+      "known_at": "2026-02-10T17:00:00Z",
+      "risk": 0.718,
+      "shift_id": "shift10-b"
+    },
+    {
+      "score_id": "10-b-6",
+      "event_id": "storm10",
+      "zone": "b",
+      "at": "2026-02-10T18:00:00Z",
+      "known_at": "2026-02-10T18:00:00Z",
+      "risk": 0.732,
+      "shift_id": "shift10-b"
+    },
+    {
+      "score_id": "10-b-7",
+      "event_id": "storm10",
+      "zone": "b",
+      "at": "2026-02-10T19:00:00Z",
+      "known_at": "2026-02-10T19:00:00Z",
+      "risk": 0.743,
+      "shift_id": "shift10-b"
+    },
+    {
+      "score_id": "10-b-8",
+      "event_id": "storm10",
+      "zone": "b",
+      "at": "2026-02-10T20:00:00Z",
+      "known_at": "2026-02-10T20:00:00Z",
+      "risk": 0.366,
+      "shift_id": "shift10-b"
+    },
+    {
+      "score_id": "10-b-9",
+      "event_id": "storm10",
+      "zone": "b",
+      "at": "2026-02-10T21:00:00Z",
+      "known_at": "2026-02-10T21:00:00Z",
+      "risk": 0.831,
+      "shift_id": "shift10-b"
+    },
+    {
+      "score_id": "10-b-10",
+      "event_id": "storm10",
+      "zone": "b",
+      "at": "2026-02-10T22:00:00Z",
+      "known_at": "2026-02-10T22:00:00Z",
+      "risk": 0.535,
+      "shift_id": "shift10-b"
+    },
+    {
+      "score_id": "10-b-11",
+      "event_id": "storm10",
+      "zone": "b",
+      "at": "2026-02-10T23:00:00Z",
+      "known_at": "2026-02-10T23:00:00Z",
+      "risk": 0.865,
+      "shift_id": "shift10-b"
+    },
+    {
+      "score_id": "11-a-0",
+      "event_id": "storm11",
+      "zone": "a",
+      "at": "2026-02-14T12:00:00Z",
+      "known_at": "2026-02-14T12:00:00Z",
+      "risk": 0.883,
+      "shift_id": "shift11-a"
+    },
+    {
+      "score_id": "11-a-1",
+      "event_id": "storm11",
+      "zone": "a",
+      "at": "2026-02-14T13:00:00Z",
+      "known_at": "2026-02-14T13:00:00Z",
+      "risk": 0.405,
+      "shift_id": "shift11-a"
+    },
+    {
+      "score_id": "11-a-2",
+      "event_id": "storm11",
+      "zone": "a",
+      "at": "2026-02-14T14:00:00Z",
+      "known_at": "2026-02-14T14:00:00Z",
+      "risk": 0.563,
+      "shift_id": "shift11-a"
+    },
+    {
+      "score_id": "11-a-3",
+      "event_id": "storm11",
+      "zone": "a",
+      "at": "2026-02-14T15:00:00Z",
+      "known_at": "2026-02-14T15:00:00Z",
+      "risk": 0.869,
+      "shift_id": "shift11-a"
+    },
+    {
+      "score_id": "11-a-4",
+      "event_id": "storm11",
+      "zone": "a",
+      "at": "2026-02-14T16:00:00Z",
+      "known_at": "2026-02-14T16:00:00Z",
+      "risk": 0.807,
+      "shift_id": "shift11-a"
+    },
+    {
+      "score_id": "11-a-5",
+      "event_id": "storm11",
+      "zone": "a",
+      "at": "2026-02-14T17:00:00Z",
+      "known_at": "2026-02-14T17:00:00Z",
+      "risk": 0.945,
+      "shift_id": "shift11-a"
+    },
+    {
+      "score_id": "11-a-6",
+      "event_id": "storm11",
+      "zone": "a",
+      "at": "2026-02-14T18:00:00Z",
+      "known_at": "2026-02-14T18:00:00Z",
+      "risk": 0.903,
+      "shift_id": "shift11-a"
+    },
+    {
+      "score_id": "11-a-7",
+      "event_id": "storm11",
+      "zone": "a",
+      "at": "2026-02-14T19:00:00Z",
+      "known_at": "2026-02-14T19:00:00Z",
+      "risk": 0.768,
+      "shift_id": "shift11-a"
+    },
+    {
+      "score_id": "11-a-8",
+      "event_id": "storm11",
+      "zone": "a",
+      "at": "2026-02-14T20:00:00Z",
+      "known_at": "2026-02-14T20:00:00Z",
+      "risk": 0.247,
+      "shift_id": "shift11-a"
+    },
+    {
+      "score_id": "11-a-9",
+      "event_id": "storm11",
+      "zone": "a",
+      "at": "2026-02-14T21:00:00Z",
+      "known_at": "2026-02-14T21:00:00Z",
+      "risk": 0.429,
+      "shift_id": "shift11-a"
+    },
+    {
+      "score_id": "11-a-10",
+      "event_id": "storm11",
+      "zone": "a",
+      "at": "2026-02-14T22:00:00Z",
+      "known_at": "2026-02-14T22:00:00Z",
+      "risk": 0.835,
+      "shift_id": "shift11-a"
+    },
+    {
+      "score_id": "11-a-11",
+      "event_id": "storm11",
+      "zone": "a",
+      "at": "2026-02-14T23:00:00Z",
+      "known_at": "2026-02-14T23:00:00Z",
+      "risk": 0.682,
+      "shift_id": "shift11-a"
+    },
+    {
+      "score_id": "11-b-0",
+      "event_id": "storm11",
+      "zone": "b",
+      "at": "2026-02-14T12:00:00Z",
+      "known_at": "2026-02-14T12:00:00Z",
+      "risk": 0.852,
+      "shift_id": "shift11-b"
+    },
+    {
+      "score_id": "11-b-1",
+      "event_id": "storm11",
+      "zone": "b",
+      "at": "2026-02-14T13:00:00Z",
+      "known_at": "2026-02-14T13:00:00Z",
+      "risk": 0.868,
+      "shift_id": "shift11-b"
+    },
+    {
+      "score_id": "11-b-2",
+      "event_id": "storm11",
+      "zone": "b",
+      "at": "2026-02-14T14:00:00Z",
+      "known_at": "2026-02-14T14:00:00Z",
+      "risk": 0.583,
+      "shift_id": "shift11-b"
+    },
+    {
+      "score_id": "11-b-3",
+      "event_id": "storm11",
+      "zone": "b",
+      "at": "2026-02-14T15:00:00Z",
+      "known_at": "2026-02-14T15:00:00Z",
+      "risk": 0.249,
+      "shift_id": "shift11-b"
+    },
+    {
+      "score_id": "11-b-4",
+      "event_id": "storm11",
+      "zone": "b",
+      "at": "2026-02-14T16:00:00Z",
+      "known_at": "2026-02-14T16:00:00Z",
+      "risk": 0.496,
+      "shift_id": "shift11-b"
+    },
+    {
+      "score_id": "11-b-5",
+      "event_id": "storm11",
+      "zone": "b",
+      "at": "2026-02-14T17:00:00Z",
+      "known_at": "2026-02-14T17:00:00Z",
+      "risk": 0.815,
+      "shift_id": "shift11-b"
+    },
+    {
+      "score_id": "11-b-6",
+      "event_id": "storm11",
+      "zone": "b",
+      "at": "2026-02-14T18:00:00Z",
+      "known_at": "2026-02-14T18:00:00Z",
+      "risk": 0.337,
+      "shift_id": "shift11-b"
+    },
+    {
+      "score_id": "11-b-7",
+      "event_id": "storm11",
+      "zone": "b",
+      "at": "2026-02-14T19:00:00Z",
+      "known_at": "2026-02-14T19:00:00Z",
+      "risk": 0.394,
+      "shift_id": "shift11-b"
+    },
+    {
+      "score_id": "11-b-8",
+      "event_id": "storm11",
+      "zone": "b",
+      "at": "2026-02-14T20:00:00Z",
+      "known_at": "2026-02-14T20:00:00Z",
+      "risk": 0.45,
+      "shift_id": "shift11-b"
+    },
+    {
+      "score_id": "11-b-9",
+      "event_id": "storm11",
+      "zone": "b",
+      "at": "2026-02-14T21:00:00Z",
+      "known_at": "2026-02-14T21:00:00Z",
+      "risk": 0.832,
+      "shift_id": "shift11-b"
+    },
+    {
+      "score_id": "11-b-10",
+      "event_id": "storm11",
+      "zone": "b",
+      "at": "2026-02-14T22:00:00Z",
+      "known_at": "2026-02-14T22:00:00Z",
+      "risk": 0.679,
+      "shift_id": "shift11-b"
+    },
+    {
+      "score_id": "11-b-11",
+      "event_id": "storm11",
+      "zone": "b",
+      "at": "2026-02-14T23:00:00Z",
+      "known_at": "2026-02-14T23:00:00Z",
+      "risk": 0.409,
+      "shift_id": "shift11-b"
+    },
+    {
+      "score_id": "12-a-0",
+      "event_id": "storm12",
+      "zone": "a",
+      "at": "2026-02-18T12:00:00Z",
+      "known_at": "2026-02-18T12:00:00Z",
+      "risk": 0.455,
+      "shift_id": "shift12-a"
+    },
+    {
+      "score_id": "12-a-1",
+      "event_id": "storm12",
+      "zone": "a",
+      "at": "2026-02-18T13:00:00Z",
+      "known_at": "2026-02-18T13:00:00Z",
+      "risk": 0.487,
+      "shift_id": "shift12-a"
+    },
+    {
+      "score_id": "12-a-2",
+      "event_id": "storm12",
+      "zone": "a",
+      "at": "2026-02-18T14:00:00Z",
+      "known_at": "2026-02-18T14:00:00Z",
+      "risk": 0.854,
+      "shift_id": "shift12-a"
+    },
+    {
+      "score_id": "12-a-3",
+      "event_id": "storm12",
+      "zone": "a",
+      "at": "2026-02-18T15:00:00Z",
+      "known_at": "2026-02-18T15:00:00Z",
+      "risk": 0.716,
+      "shift_id": "shift12-a"
+    },
+    {
+      "score_id": "12-a-4",
+      "event_id": "storm12",
+      "zone": "a",
+      "at": "2026-02-18T16:00:00Z",
+      "known_at": "2026-02-18T16:00:00Z",
+      "risk": 0.827,
+      "shift_id": "shift12-a"
+    },
+    {
+      "score_id": "12-a-5",
+      "event_id": "storm12",
+      "zone": "a",
+      "at": "2026-02-18T17:00:00Z",
+      "known_at": "2026-02-18T17:00:00Z",
+      "risk": 0.506,
+      "shift_id": "shift12-a"
+    },
+    {
+      "score_id": "12-a-6",
+      "event_id": "storm12",
+      "zone": "a",
+      "at": "2026-02-18T18:00:00Z",
+      "known_at": "2026-02-18T18:00:00Z",
+      "risk": 0.243,
+      "shift_id": "shift12-a"
+    },
+    {
+      "score_id": "12-a-7",
+      "event_id": "storm12",
+      "zone": "a",
+      "at": "2026-02-18T19:00:00Z",
+      "known_at": "2026-02-18T19:00:00Z",
+      "risk": 0.715,
+      "shift_id": "shift12-a"
+    },
+    {
+      "score_id": "12-a-8",
+      "event_id": "storm12",
+      "zone": "a",
+      "at": "2026-02-18T20:00:00Z",
+      "known_at": "2026-02-18T20:00:00Z",
+      "risk": 0.938,
+      "shift_id": "shift12-a"
+    },
+    {
+      "score_id": "12-a-9",
+      "event_id": "storm12",
+      "zone": "a",
+      "at": "2026-02-18T21:00:00Z",
+      "known_at": "2026-02-18T21:00:00Z",
+      "risk": 0.815,
+      "shift_id": "shift12-a"
+    },
+    {
+      "score_id": "12-a-10",
+      "event_id": "storm12",
+      "zone": "a",
+      "at": "2026-02-18T22:00:00Z",
+      "known_at": "2026-02-18T22:00:00Z",
+      "risk": 0.677,
+      "shift_id": "shift12-a"
+    },
+    {
+      "score_id": "12-a-11",
+      "event_id": "storm12",
+      "zone": "a",
+      "at": "2026-02-18T23:00:00Z",
+      "known_at": "2026-02-18T23:00:00Z",
+      "risk": 0.784,
+      "shift_id": "shift12-a"
+    },
+    {
+      "score_id": "12-b-0",
+      "event_id": "storm12",
+      "zone": "b",
+      "at": "2026-02-18T12:00:00Z",
+      "known_at": "2026-02-18T12:00:00Z",
+      "risk": 0.574,
+      "shift_id": "shift12-b"
+    },
+    {
+      "score_id": "12-b-1",
+      "event_id": "storm12",
+      "zone": "b",
+      "at": "2026-02-18T13:00:00Z",
+      "known_at": "2026-02-18T13:00:00Z",
+      "risk": 0.81,
+      "shift_id": "shift12-b"
+    },
+    {
+      "score_id": "12-b-2",
+      "event_id": "storm12",
+      "zone": "b",
+      "at": "2026-02-18T14:00:00Z",
+      "known_at": "2026-02-18T14:00:00Z",
+      "risk": 0.904,
+      "shift_id": "shift12-b"
+    },
+    {
+      "score_id": "12-b-3",
+      "event_id": "storm12",
+      "zone": "b",
+      "at": "2026-02-18T15:00:00Z",
+      "known_at": "2026-02-18T15:00:00Z",
+      "risk": 0.777,
+      "shift_id": "shift12-b"
+    },
+    {
+      "score_id": "12-b-4",
+      "event_id": "storm12",
+      "zone": "b",
+      "at": "2026-02-18T16:00:00Z",
+      "known_at": "2026-02-18T16:00:00Z",
+      "risk": 0.823,
+      "shift_id": "shift12-b"
+    },
+    {
+      "score_id": "12-b-5",
+      "event_id": "storm12",
+      "zone": "b",
+      "at": "2026-02-18T17:00:00Z",
+      "known_at": "2026-02-18T17:00:00Z",
+      "risk": 0.688,
+      "shift_id": "shift12-b"
+    },
+    {
+      "score_id": "12-b-6",
+      "event_id": "storm12",
+      "zone": "b",
+      "at": "2026-02-18T18:00:00Z",
+      "known_at": "2026-02-18T18:00:00Z",
+      "risk": 0.4,
+      "shift_id": "shift12-b"
+    },
+    {
+      "score_id": "12-b-7",
+      "event_id": "storm12",
+      "zone": "b",
+      "at": "2026-02-18T19:00:00Z",
+      "known_at": "2026-02-18T19:00:00Z",
+      "risk": 0.663,
+      "shift_id": "shift12-b"
+    },
+    {
+      "score_id": "12-b-8",
+      "event_id": "storm12",
+      "zone": "b",
+      "at": "2026-02-18T20:00:00Z",
+      "known_at": "2026-02-18T20:00:00Z",
+      "risk": 0.89,
+      "shift_id": "shift12-b"
+    },
+    {
+      "score_id": "12-b-9",
+      "event_id": "storm12",
+      "zone": "b",
+      "at": "2026-02-18T21:00:00Z",
+      "known_at": "2026-02-18T21:00:00Z",
+      "risk": 0.534,
+      "shift_id": "shift12-b"
+    },
+    {
+      "score_id": "12-b-10",
+      "event_id": "storm12",
+      "zone": "b",
+      "at": "2026-02-18T22:00:00Z",
+      "known_at": "2026-02-18T22:00:00Z",
+      "risk": 0.706,
+      "shift_id": "shift12-b"
+    },
+    {
+      "score_id": "12-b-11",
+      "event_id": "storm12",
+      "zone": "b",
+      "at": "2026-02-18T23:00:00Z",
+      "known_at": "2026-02-18T23:00:00Z",
+      "risk": 0.786,
+      "shift_id": "shift12-b"
+    },
+    {
+      "score_id": "13-a-0",
+      "event_id": "storm13",
+      "zone": "a",
+      "at": "2026-02-22T12:00:00Z",
+      "known_at": "2026-02-22T12:00:00Z",
+      "risk": 0.929,
+      "shift_id": "shift13-a"
+    },
+    {
+      "score_id": "13-a-1",
+      "event_id": "storm13",
+      "zone": "a",
+      "at": "2026-02-22T13:00:00Z",
+      "known_at": "2026-02-22T13:00:00Z",
+      "risk": 0.217,
+      "shift_id": "shift13-a"
+    },
+    {
+      "score_id": "13-a-2",
+      "event_id": "storm13",
+      "zone": "a",
+      "at": "2026-02-22T14:00:00Z",
+      "known_at": "2026-02-22T14:00:00Z",
+      "risk": 0.846,
+      "shift_id": "shift13-a"
+    },
+    {
+      "score_id": "13-a-3",
+      "event_id": "storm13",
+      "zone": "a",
+      "at": "2026-02-22T15:00:00Z",
+      "known_at": "2026-02-22T15:00:00Z",
+      "risk": 0.248,
+      "shift_id": "shift13-a"
+    },
+    {
+      "score_id": "13-a-4",
+      "event_id": "storm13",
+      "zone": "a",
+      "at": "2026-02-22T16:00:00Z",
+      "known_at": "2026-02-22T16:00:00Z",
+      "risk": 0.609,
+      "shift_id": "shift13-a"
+    },
+    {
+      "score_id": "13-a-5",
+      "event_id": "storm13",
+      "zone": "a",
+      "at": "2026-02-22T17:00:00Z",
+      "known_at": "2026-02-22T17:00:00Z",
+      "risk": 0.615,
+      "shift_id": "shift13-a"
+    },
+    {
+      "score_id": "13-a-6",
+      "event_id": "storm13",
+      "zone": "a",
+      "at": "2026-02-22T18:00:00Z",
+      "known_at": "2026-02-22T18:00:00Z",
+      "risk": 0.456,
+      "shift_id": "shift13-a"
+    },
+    {
+      "score_id": "13-a-7",
+      "event_id": "storm13",
+      "zone": "a",
+      "at": "2026-02-22T19:00:00Z",
+      "known_at": "2026-02-22T19:00:00Z",
+      "risk": 0.867,
+      "shift_id": "shift13-a"
+    },
+    {
+      "score_id": "13-a-8",
+      "event_id": "storm13",
+      "zone": "a",
+      "at": "2026-02-22T20:00:00Z",
+      "known_at": "2026-02-22T20:00:00Z",
+      "risk": 0.661,
+      "shift_id": "shift13-a"
+    },
+    {
+      "score_id": "13-a-9",
+      "event_id": "storm13",
+      "zone": "a",
+      "at": "2026-02-22T21:00:00Z",
+      "known_at": "2026-02-22T21:00:00Z",
+      "risk": 0.639,
+      "shift_id": "shift13-a"
+    },
+    {
+      "score_id": "13-a-10",
+      "event_id": "storm13",
+      "zone": "a",
+      "at": "2026-02-22T22:00:00Z",
+      "known_at": "2026-02-22T22:00:00Z",
+      "risk": 0.346,
+      "shift_id": "shift13-a"
+    },
+    {
+      "score_id": "13-a-11",
+      "event_id": "storm13",
+      "zone": "a",
+      "at": "2026-02-22T23:00:00Z",
+      "known_at": "2026-02-22T23:00:00Z",
+      "risk": 0.493,
+      "shift_id": "shift13-a"
+    },
+    {
+      "score_id": "13-b-0",
+      "event_id": "storm13",
+      "zone": "b",
+      "at": "2026-02-22T12:00:00Z",
+      "known_at": "2026-02-22T12:00:00Z",
+      "risk": 0.287,
+      "shift_id": "shift13-b"
+    },
+    {
+      "score_id": "13-b-1",
+      "event_id": "storm13",
+      "zone": "b",
+      "at": "2026-02-22T13:00:00Z",
+      "known_at": "2026-02-22T13:00:00Z",
+      "risk": 0.887,
+      "shift_id": "shift13-b"
+    },
+    {
+      "score_id": "13-b-2",
+      "event_id": "storm13",
+      "zone": "b",
+      "at": "2026-02-22T14:00:00Z",
+      "known_at": "2026-02-22T14:00:00Z",
+      "risk": 0.548,
+      "shift_id": "shift13-b"
+    },
+    {
+      "score_id": "13-b-3",
+      "event_id": "storm13",
+      "zone": "b",
+      "at": "2026-02-22T15:00:00Z",
+      "known_at": "2026-02-22T15:00:00Z",
+      "risk": 0.372,
+      "shift_id": "shift13-b"
+    },
+    {
+      "score_id": "13-b-4",
+      "event_id": "storm13",
+      "zone": "b",
+      "at": "2026-02-22T16:00:00Z",
+      "known_at": "2026-02-22T16:00:00Z",
+      "risk": 0.592,
+      "shift_id": "shift13-b"
+    },
+    {
+      "score_id": "13-b-5",
+      "event_id": "storm13",
+      "zone": "b",
+      "at": "2026-02-22T17:00:00Z",
+      "known_at": "2026-02-22T17:00:00Z",
+      "risk": 0.532,
+      "shift_id": "shift13-b"
+    },
+    {
+      "score_id": "13-b-6",
+      "event_id": "storm13",
+      "zone": "b",
+      "at": "2026-02-22T18:00:00Z",
+      "known_at": "2026-02-22T18:00:00Z",
+      "risk": 0.238,
+      "shift_id": "shift13-b"
+    },
+    {
+      "score_id": "13-b-7",
+      "event_id": "storm13",
+      "zone": "b",
+      "at": "2026-02-22T19:00:00Z",
+      "known_at": "2026-02-22T19:00:00Z",
+      "risk": 0.557,
+      "shift_id": "shift13-b"
+    },
+    {
+      "score_id": "13-b-8",
+      "event_id": "storm13",
+      "zone": "b",
+      "at": "2026-02-22T20:00:00Z",
+      "known_at": "2026-02-22T20:00:00Z",
+      "risk": 0.247,
+      "shift_id": "shift13-b"
+    },
+    {
+      "score_id": "13-b-9",
+      "event_id": "storm13",
+      "zone": "b",
+      "at": "2026-02-22T21:00:00Z",
+      "known_at": "2026-02-22T21:00:00Z",
+      "risk": 0.933,
+      "shift_id": "shift13-b"
+    },
+    {
+      "score_id": "13-b-10",
+      "event_id": "storm13",
+      "zone": "b",
+      "at": "2026-02-22T22:00:00Z",
+      "known_at": "2026-02-22T22:00:00Z",
+      "risk": 0.311,
+      "shift_id": "shift13-b"
+    },
+    {
+      "score_id": "13-b-11",
+      "event_id": "storm13",
+      "zone": "b",
+      "at": "2026-02-22T23:00:00Z",
+      "known_at": "2026-02-22T23:00:00Z",
+      "risk": 0.532,
+      "shift_id": "shift13-b"
+    },
+    {
+      "score_id": "14-a-0",
+      "event_id": "storm14",
+      "zone": "a",
+      "at": "2026-02-26T12:00:00Z",
+      "known_at": "2026-02-26T12:00:00Z",
+      "risk": 0.523,
+      "shift_id": "shift14-a"
+    },
+    {
+      "score_id": "14-a-1",
+      "event_id": "storm14",
+      "zone": "a",
+      "at": "2026-02-26T13:00:00Z",
+      "known_at": "2026-02-26T13:00:00Z",
+      "risk": 0.888,
+      "shift_id": "shift14-a"
+    },
+    {
+      "score_id": "14-a-2",
+      "event_id": "storm14",
+      "zone": "a",
+      "at": "2026-02-26T14:00:00Z",
+      "known_at": "2026-02-26T14:00:00Z",
+      "risk": 0.882,
+      "shift_id": "shift14-a"
+    },
+    {
+      "score_id": "14-a-3",
+      "event_id": "storm14",
+      "zone": "a",
+      "at": "2026-02-26T15:00:00Z",
+      "known_at": "2026-02-26T15:00:00Z",
+      "risk": 0.803,
+      "shift_id": "shift14-a"
+    },
+    {
+      "score_id": "14-a-4",
+      "event_id": "storm14",
+      "zone": "a",
+      "at": "2026-02-26T16:00:00Z",
+      "known_at": "2026-02-26T16:00:00Z",
+      "risk": 0.484,
+      "shift_id": "shift14-a"
+    },
+    {
+      "score_id": "14-a-5",
+      "event_id": "storm14",
+      "zone": "a",
+      "at": "2026-02-26T17:00:00Z",
+      "known_at": "2026-02-26T17:00:00Z",
+      "risk": 0.446,
+      "shift_id": "shift14-a"
+    },
+    {
+      "score_id": "14-a-6",
+      "event_id": "storm14",
+      "zone": "a",
+      "at": "2026-02-26T18:00:00Z",
+      "known_at": "2026-02-26T18:00:00Z",
+      "risk": 0.761,
+      "shift_id": "shift14-a"
+    },
+    {
+      "score_id": "14-a-7",
+      "event_id": "storm14",
+      "zone": "a",
+      "at": "2026-02-26T19:00:00Z",
+      "known_at": "2026-02-26T19:00:00Z",
+      "risk": 0.777,
+      "shift_id": "shift14-a"
+    },
+    {
+      "score_id": "14-a-8",
+      "event_id": "storm14",
+      "zone": "a",
+      "at": "2026-02-26T20:00:00Z",
+      "known_at": "2026-02-26T20:00:00Z",
+      "risk": 0.354,
+      "shift_id": "shift14-a"
+    },
+    {
+      "score_id": "14-a-9",
+      "event_id": "storm14",
+      "zone": "a",
+      "at": "2026-02-26T21:00:00Z",
+      "known_at": "2026-02-26T21:00:00Z",
+      "risk": 0.277,
+      "shift_id": "shift14-a"
+    },
+    {
+      "score_id": "14-a-10",
+      "event_id": "storm14",
+      "zone": "a",
+      "at": "2026-02-26T22:00:00Z",
+      "known_at": "2026-02-26T22:00:00Z",
+      "risk": 0.43,
+      "shift_id": "shift14-a"
+    },
+    {
+      "score_id": "14-a-11",
+      "event_id": "storm14",
+      "zone": "a",
+      "at": "2026-02-26T23:00:00Z",
+      "known_at": "2026-02-26T23:00:00Z",
+      "risk": 0.615,
+      "shift_id": "shift14-a"
+    },
+    {
+      "score_id": "14-b-0",
+      "event_id": "storm14",
+      "zone": "b",
+      "at": "2026-02-26T12:00:00Z",
+      "known_at": "2026-02-26T12:00:00Z",
+      "risk": 0.821,
+      "shift_id": "shift14-b"
+    },
+    {
+      "score_id": "14-b-1",
+      "event_id": "storm14",
+      "zone": "b",
+      "at": "2026-02-26T13:00:00Z",
+      "known_at": "2026-02-26T13:00:00Z",
+      "risk": 0.387,
+      "shift_id": "shift14-b"
+    },
+    {
+      "score_id": "14-b-2",
+      "event_id": "storm14",
+      "zone": "b",
+      "at": "2026-02-26T14:00:00Z",
+      "known_at": "2026-02-26T14:00:00Z",
+      "risk": 0.811,
+      "shift_id": "shift14-b"
+    },
+    {
+      "score_id": "14-b-3",
+      "event_id": "storm14",
+      "zone": "b",
+      "at": "2026-02-26T15:00:00Z",
+      "known_at": "2026-02-26T15:00:00Z",
+      "risk": 0.327,
+      "shift_id": "shift14-b"
+    },
+    {
+      "score_id": "14-b-4",
+      "event_id": "storm14",
+      "zone": "b",
+      "at": "2026-02-26T16:00:00Z",
+      "known_at": "2026-02-26T16:00:00Z",
+      "risk": 0.27,
+      "shift_id": "shift14-b"
+    },
+    {
+      "score_id": "14-b-5",
+      "event_id": "storm14",
+      "zone": "b",
+      "at": "2026-02-26T17:00:00Z",
+      "known_at": "2026-02-26T17:00:00Z",
+      "risk": 0.873,
+      "shift_id": "shift14-b"
+    },
+    {
+      "score_id": "14-b-6",
+      "event_id": "storm14",
+      "zone": "b",
+      "at": "2026-02-26T18:00:00Z",
+      "known_at": "2026-02-26T18:00:00Z",
+      "risk": 0.444,
+      "shift_id": "shift14-b"
+    },
+    {
+      "score_id": "14-b-7",
+      "event_id": "storm14",
+      "zone": "b",
+      "at": "2026-02-26T19:00:00Z",
+      "known_at": "2026-02-26T19:00:00Z",
+      "risk": 0.434,
+      "shift_id": "shift14-b"
+    },
+    {
+      "score_id": "14-b-8",
+      "event_id": "storm14",
+      "zone": "b",
+      "at": "2026-02-26T20:00:00Z",
+      "known_at": "2026-02-26T20:00:00Z",
+      "risk": 0.928,
+      "shift_id": "shift14-b"
+    },
+    {
+      "score_id": "14-b-9",
+      "event_id": "storm14",
+      "zone": "b",
+      "at": "2026-02-26T21:00:00Z",
+      "known_at": "2026-02-26T21:00:00Z",
+      "risk": 0.565,
+      "shift_id": "shift14-b"
+    },
+    {
+      "score_id": "14-b-10",
+      "event_id": "storm14",
+      "zone": "b",
+      "at": "2026-02-26T22:00:00Z",
+      "known_at": "2026-02-26T22:00:00Z",
+      "risk": 0.415,
+      "shift_id": "shift14-b"
+    },
+    {
+      "score_id": "14-b-11",
+      "event_id": "storm14",
+      "zone": "b",
+      "at": "2026-02-26T23:00:00Z",
+      "known_at": "2026-02-26T23:00:00Z",
+      "risk": 0.856,
+      "shift_id": "shift14-b"
+    },
+    {
+      "score_id": "15-a-0",
+      "event_id": "storm15",
+      "zone": "a",
+      "at": "2026-03-02T12:00:00Z",
+      "known_at": "2026-03-02T12:00:00Z",
+      "risk": 0.676,
+      "shift_id": "shift15-a"
+    },
+    {
+      "score_id": "15-a-1",
+      "event_id": "storm15",
+      "zone": "a",
+      "at": "2026-03-02T13:00:00Z",
+      "known_at": "2026-03-02T13:00:00Z",
+      "risk": 0.537,
+      "shift_id": "shift15-a"
+    },
+    {
+      "score_id": "15-a-2",
+      "event_id": "storm15",
+      "zone": "a",
+      "at": "2026-03-02T14:00:00Z",
+      "known_at": "2026-03-02T14:00:00Z",
+      "risk": 0.814,
+      "shift_id": "shift15-a"
+    },
+    {
+      "score_id": "15-a-3",
+      "event_id": "storm15",
+      "zone": "a",
+      "at": "2026-03-02T15:00:00Z",
+      "known_at": "2026-03-02T15:00:00Z",
+      "risk": 0.683,
+      "shift_id": "shift15-a"
+    },
+    {
+      "score_id": "15-a-4",
+      "event_id": "storm15",
+      "zone": "a",
+      "at": "2026-03-02T16:00:00Z",
+      "known_at": "2026-03-02T16:00:00Z",
+      "risk": 0.913,
+      "shift_id": "shift15-a"
+    },
+    {
+      "score_id": "15-a-5",
+      "event_id": "storm15",
+      "zone": "a",
+      "at": "2026-03-02T17:00:00Z",
+      "known_at": "2026-03-02T17:00:00Z",
+      "risk": 0.892,
+      "shift_id": "shift15-a"
+    },
+    {
+      "score_id": "15-a-6",
+      "event_id": "storm15",
+      "zone": "a",
+      "at": "2026-03-02T18:00:00Z",
+      "known_at": "2026-03-02T18:00:00Z",
+      "risk": 0.601,
+      "shift_id": "shift15-a"
+    },
+    {
+      "score_id": "15-a-7",
+      "event_id": "storm15",
+      "zone": "a",
+      "at": "2026-03-02T19:00:00Z",
+      "known_at": "2026-03-02T19:00:00Z",
+      "risk": 0.825,
+      "shift_id": "shift15-a"
+    },
+    {
+      "score_id": "15-a-8",
+      "event_id": "storm15",
+      "zone": "a",
+      "at": "2026-03-02T20:00:00Z",
+      "known_at": "2026-03-02T20:00:00Z",
+      "risk": 0.387,
+      "shift_id": "shift15-a"
+    },
+    {
+      "score_id": "15-a-9",
+      "event_id": "storm15",
+      "zone": "a",
+      "at": "2026-03-02T21:00:00Z",
+      "known_at": "2026-03-02T21:00:00Z",
+      "risk": 0.651,
+      "shift_id": "shift15-a"
+    },
+    {
+      "score_id": "15-a-10",
+      "event_id": "storm15",
+      "zone": "a",
+      "at": "2026-03-02T22:00:00Z",
+      "known_at": "2026-03-02T22:00:00Z",
+      "risk": 0.727,
+      "shift_id": "shift15-a"
+    },
+    {
+      "score_id": "15-a-11",
+      "event_id": "storm15",
+      "zone": "a",
+      "at": "2026-03-02T23:00:00Z",
+      "known_at": "2026-03-02T23:00:00Z",
+      "risk": 0.755,
+      "shift_id": "shift15-a"
+    },
+    {
+      "score_id": "15-b-0",
+      "event_id": "storm15",
+      "zone": "b",
+      "at": "2026-03-02T12:00:00Z",
+      "known_at": "2026-03-02T12:00:00Z",
+      "risk": 0.5,
+      "shift_id": "shift15-b"
+    },
+    {
+      "score_id": "15-b-1",
+      "event_id": "storm15",
+      "zone": "b",
+      "at": "2026-03-02T13:00:00Z",
+      "known_at": "2026-03-02T13:00:00Z",
+      "risk": 0.229,
+      "shift_id": "shift15-b"
+    },
+    {
+      "score_id": "15-b-2",
+      "event_id": "storm15",
+      "zone": "b",
+      "at": "2026-03-02T14:00:00Z",
+      "known_at": "2026-03-02T14:00:00Z",
+      "risk": 0.252,
+      "shift_id": "shift15-b"
+    },
+    {
+      "score_id": "15-b-3",
+      "event_id": "storm15",
+      "zone": "b",
+      "at": "2026-03-02T15:00:00Z",
+      "known_at": "2026-03-02T15:00:00Z",
+      "risk": 0.29,
+      "shift_id": "shift15-b"
+    },
+    {
+      "score_id": "15-b-4",
+      "event_id": "storm15",
+      "zone": "b",
+      "at": "2026-03-02T16:00:00Z",
+      "known_at": "2026-03-02T16:00:00Z",
+      "risk": 0.543,
+      "shift_id": "shift15-b"
+    },
+    {
+      "score_id": "15-b-5",
+      "event_id": "storm15",
+      "zone": "b",
+      "at": "2026-03-02T17:00:00Z",
+      "known_at": "2026-03-02T17:00:00Z",
+      "risk": 0.634,
+      "shift_id": "shift15-b"
+    },
+    {
+      "score_id": "15-b-6",
+      "event_id": "storm15",
+      "zone": "b",
+      "at": "2026-03-02T18:00:00Z",
+      "known_at": "2026-03-02T18:00:00Z",
+      "risk": 0.395,
+      "shift_id": "shift15-b"
+    },
+    {
+      "score_id": "15-b-7",
+      "event_id": "storm15",
+      "zone": "b",
+      "at": "2026-03-02T19:00:00Z",
+      "known_at": "2026-03-02T19:00:00Z",
+      "risk": 0.754,
+      "shift_id": "shift15-b"
+    },
+    {
+      "score_id": "15-b-8",
+      "event_id": "storm15",
+      "zone": "b",
+      "at": "2026-03-02T20:00:00Z",
+      "known_at": "2026-03-02T20:00:00Z",
+      "risk": 0.321,
+      "shift_id": "shift15-b"
+    },
+    {
+      "score_id": "15-b-9",
+      "event_id": "storm15",
+      "zone": "b",
+      "at": "2026-03-02T21:00:00Z",
+      "known_at": "2026-03-02T21:00:00Z",
+      "risk": 0.556,
+      "shift_id": "shift15-b"
+    },
+    {
+      "score_id": "15-b-10",
+      "event_id": "storm15",
+      "zone": "b",
+      "at": "2026-03-02T22:00:00Z",
+      "known_at": "2026-03-02T22:00:00Z",
+      "risk": 0.36,
+      "shift_id": "shift15-b"
+    },
+    {
+      "score_id": "15-b-11",
+      "event_id": "storm15",
+      "zone": "b",
+      "at": "2026-03-02T23:00:00Z",
+      "known_at": "2026-03-02T23:00:00Z",
+      "risk": 0.947,
+      "shift_id": "shift15-b"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "storm0",
+      "zones": [
+        "a",
+        "b"
+      ],
+      "start": "2026-01-01T23:00:00Z",
+      "end": "2026-01-02T05:00:00Z",
+      "label_known_at": "2026-01-04T00:00:00Z",
+      "revision": 1,
+      "outcome": false
+    },
+    {
+      "event_id": "storm1",
+      "zones": [
+        "a",
+        "b"
+      ],
+      "start": "2026-01-05T23:00:00Z",
+      "end": "2026-01-06T05:00:00Z",
+      "label_known_at": "2026-01-08T00:00:00Z",
+      "revision": 1,
+      "outcome": true
+    },
+    {
+      "event_id": "storm2",
+      "zones": [
+        "a",
+        "b"
+      ],
+      "start": "2026-01-09T23:00:00Z",
+      "end": "2026-01-10T05:00:00Z",
+      "label_known_at": "2026-01-12T00:00:00Z",
+      "revision": 1,
+      "outcome": true
+    },
+    {
+      "event_id": "storm3",
+      "zones": [
+        "a",
+        "b"
+      ],
+      "start": "2026-01-13T23:00:00Z",
+      "end": "2026-01-14T05:00:00Z",
+      "label_known_at": "2026-01-16T00:00:00Z",
+      "revision": 1,
+      "outcome": false
+    },
+    {
+      "event_id": "storm4",
+      "zones": [
+        "a",
+        "b"
+      ],
+      "start": "2026-01-17T23:00:00Z",
+      "end": "2026-01-18T05:00:00Z",
+      "label_known_at": "2026-01-20T00:00:00Z",
+      "revision": 1,
+      "outcome": true
+    },
+    {
+      "event_id": "storm5",
+      "zones": [
+        "a",
+        "b"
+      ],
+      "start": "2026-01-21T23:00:00Z",
+      "end": "2026-01-22T05:00:00Z",
+      "label_known_at": "2026-01-24T00:00:00Z",
+      "revision": 1,
+      "outcome": true
+    },
+    {
+      "event_id": "storm6",
+      "zones": [
+        "a",
+        "b"
+      ],
+      "start": "2026-01-25T23:00:00Z",
+      "end": "2026-01-26T05:00:00Z",
+      "label_known_at": "2026-01-28T00:00:00Z",
+      "revision": 1,
+      "outcome": false
+    },
+    {
+      "event_id": "storm7",
+      "zones": [
+        "a",
+        "b"
+      ],
+      "start": "2026-01-29T23:00:00Z",
+      "end": "2026-01-30T05:00:00Z",
+      "label_known_at": "2026-02-01T00:00:00Z",
+      "revision": 1,
+      "outcome": true
+    },
+    {
+      "event_id": "storm8",
+      "zones": [
+        "a",
+        "b"
+      ],
+      "start": "2026-02-02T23:00:00Z",
+      "end": "2026-02-03T05:00:00Z",
+      "label_known_at": "2026-02-05T00:00:00Z",
+      "revision": 1,
+      "outcome": true
+    },
+    {
+      "event_id": "storm9",
+      "zones": [
+        "a",
+        "b"
+      ],
+      "start": "2026-02-06T23:00:00Z",
+      "end": "2026-02-07T05:00:00Z",
+      "label_known_at": "2026-02-09T00:00:00Z",
+      "revision": 1,
+      "outcome": false
+    },
+    {
+      "event_id": "storm10",
+      "zones": [
+        "a",
+        "b"
+      ],
+      "start": "2026-02-10T23:00:00Z",
+      "end": "2026-02-11T05:00:00Z",
+      "label_known_at": "2026-02-13T00:00:00Z",
+      "revision": 1,
+      "outcome": true
+    },
+    {
+      "event_id": "storm11",
+      "zones": [
+        "a",
+        "b"
+      ],
+      "start": "2026-02-14T23:00:00Z",
+      "end": "2026-02-15T05:00:00Z",
+      "label_known_at": "2026-02-17T00:00:00Z",
+      "revision": 1,
+      "outcome": true
+    },
+    {
+      "event_id": "storm12",
+      "zones": [
+        "a",
+        "b"
+      ],
+      "start": "2026-02-18T23:00:00Z",
+      "end": "2026-02-19T05:00:00Z",
+      "label_known_at": "2026-02-21T00:00:00Z",
+      "revision": 1,
+      "outcome": false
+    },
+    {
+      "event_id": "storm13",
+      "zones": [
+        "a",
+        "b"
+      ],
+      "start": "2026-02-22T23:00:00Z",
+      "end": "2026-02-23T05:00:00Z",
+      "label_known_at": "2026-02-25T00:00:00Z",
+      "revision": 1,
+      "outcome": true
+    },
+    {
+      "event_id": "storm14",
+      "zones": [
+        "a",
+        "b"
+      ],
+      "start": "2026-02-26T23:00:00Z",
+      "end": "2026-02-27T05:00:00Z",
+      "label_known_at": "2026-03-01T00:00:00Z",
+      "revision": 1,
+      "outcome": true
+    },
+    {
+      "event_id": "storm15",
+      "zones": [
+        "a",
+        "b"
+      ],
+      "start": "2026-03-02T23:00:00Z",
+      "end": "2026-03-03T05:00:00Z",
+      "label_known_at": "2026-03-05T00:00:00Z",
+      "revision": 1,
+      "outcome": false
+    }
+  ],
+  "capacity": 4,
+  "miss_budget": 0.25,
+  "min_lead_hours": 2,
+  "candidates": [
+    {
+      "candidate_id": "uniform",
+      "kind": "uniform",
+      "threshold": 0.65,
+      "cooldown_hours": 4
+    },
+    {
+      "candidate_id": "zonal",
+      "kind": "zonal",
+      "thresholds": {
+        "a": 0.7,
+        "b": 0.6
+      },
+      "cooldown_hours": 6
+    }
+  ]
+}
