@@ -8,6 +8,13 @@
 
 目录：warning_threshold_lab 保存业务处理与存储模块；tests/threshold_experiments 保存业务回归；fixtures/demo.json 为原有业务样例，fixtures/analysis 为经营分析资料及字段说明。
 
+方案选择（离线）：warning_threshold_lab/selection 按时间与持续过程隔离做嵌套交叉验证，
+在 capacity、miss_budget、min_lead_hours 硬护栏下比较全区统一与分区候选，输出 release/hold
+选择记录并与 vintages、labels、replay、guardrails 互相引用；不连接真实发布系统。
+	验收：python3 -m warning_threshold_lab.selection --input fixtures/analysis/input.json --output /tmp/selection.json --database /tmp/warning_threshold_lab-selection.sqlite3
+	hold 样例：python3 -m warning_threshold_lab.selection --input fixtures/analysis/hold_input.json --output /tmp/selection-hold.json --database /tmp/warning_threshold_lab-hold.sqlite3
+	回归：python3 -m unittest discover -s tests/selection -p 'test_*.py'
+
 原有验收命令每次使用新的 SQLite 路径，避免复用上次状态。新增输入完整性检查：
 python3 -m unittest discover -s tests/analysis_inputs -v
 
